@@ -9,6 +9,16 @@ FEED_TITLE = "Lịch Phát Hành Truyện Bản Quyền"
 FEED_DESCRIPTION = "Lịch phát hành manga bản quyền tại Việt Nam"
 ICT = timezone(timedelta(hours=7))
 
+_CSS = (
+    "<style>"
+    "table{width:100%;border-collapse:collapse;margin-bottom:15px}"
+    "td{padding:4px 0;vertical-align:top}"
+    "td:nth-child(1){text-align:left}"
+    "td:nth-child(2){text-align:right;width:1%;white-space:nowrap;padding-left:15px}"
+    "b{display:block;margin-top:10px;font-size:1.1em}"
+    "</style>"
+)
+
 
 def _rss_date(date_str: str) -> str:
     dt = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=ICT)
@@ -20,14 +30,16 @@ def _month_description(month_entries: list[dict]) -> str:
     for entry in month_entries:
         by_day[entry["release_date"][8:]].append(entry)
 
-    parts = []
+    parts = [_CSS]
     for day in sorted(by_day):
         rows = "".join(
-            f'<tr><td>{escape(e["title"])} - {escape(e["volume_number"] or "")}</td>'
-            f'<td align="right">{escape(e["price"] or "")}</td></tr>'
+            f'<tr>'
+            f'<td>{escape(e["title"])} - {escape((e["volume_number"] or "").removeprefix("Tập "))}</td>'
+            f'<td>{escape(e["price"] or "")}</td>'
+            f'</tr>'
             for e in by_day[day]
         )
-        parts.append(f"<b>{day}</b><table width='100%'>{rows}</table>")
+        parts.append(f"<b>{day}</b><table>{rows}</table>")
     return "\n".join(parts)
 
 
