@@ -15,6 +15,22 @@ def _rss_date(date_str: str) -> str:
     return format_datetime(dt)
 
 
+def _month_description(month_entries: list[dict]) -> str:
+    by_day: dict[str, list[dict]] = defaultdict(list)
+    for entry in month_entries:
+        by_day[entry["release_date"][8:]].append(entry)
+
+    parts = []
+    for day in sorted(by_day):
+        rows = "".join(
+            f'<tr><td>{escape(e["title"])} - {escape(e["volume_number"] or "")}</td>'
+            f'<td align="right">{escape(e["price"] or "")}</td></tr>'
+            for e in by_day[day]
+        )
+        parts.append(f"<b>{day}</b><table width='100%'>{rows}</table>")
+    return "\n".join(parts)
+
+
 def generate_rss(entries: list[dict], month: str | None = None) -> str:
     now_rfc = format_datetime(datetime.now(tz=ICT))
     if month:
@@ -25,22 +41,20 @@ def generate_rss(entries: list[dict], month: str | None = None) -> str:
         channel_title = FEED_TITLE
         channel_link = BASE_URL
 
-    by_date: dict[str, list[dict]] = defaultdict(list)
+    by_month: dict[str, list[dict]] = defaultdict(list)
     for entry in entries:
-        by_date[entry["release_date"]].append(entry)
+        by_month[entry["release_date"][:7]].append(entry)
 
     items = []
-    for release_date in sorted(by_date):
-        lines = "\n".join(
-            f"{e['title']} - {e['volume_number'] or ''}\t{e['price'] or ''}"
-            for e in by_date[release_date]
-        )
+    for month_key in sorted(by_month):
+        month_title = datetime.strptime(month_key, "%Y-%m").strftime("%B %Y")
+        desc = _month_description(by_month[month_key])
         item = (
             "    <item>\n"
-            f"      <title>{escape(release_date)}</title>\n"
-            f"      <guid isPermaLink=\"false\">{escape(channel_link)}#{escape(release_date)}</guid>\n"
-            f"      <pubDate>{_rss_date(release_date)}</pubDate>\n"
-            f"      <description><![CDATA[{lines}]]></description>\n"
+            f"      <title>{escape(month_title)}</title>\n"
+            f'      <guid isPermaLink="false">{escape(channel_link)}#{escape(month_key)}</guid>\n'
+            f"      <pubDate>{_rss_date(f'{month_key}-01')}</pubDate>\n"
+            f"      <description><![CDATA[{desc}]]></description>\n"
             "    </item>"
         )
         items.append(item)
