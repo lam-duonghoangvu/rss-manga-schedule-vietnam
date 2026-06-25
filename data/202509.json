@@ -1,0 +1,742 @@
+[
+  {
+    "title": "Claymore",
+    "volume_number": "Tập 20",
+    "volume_photo": "https://image.tana.moe/H6uOv_OilsPHwZCSiGI6YJswZiPWn5CqW0H3u-x6/1920x0/filters:quality(90)/z507o5es2t7k6a4/claymore_tap_20_b12tbcne8d.jpg",
+    "url": "https://tana.moe/title/claymore",
+    "release_date": "2025-09-05",
+    "price": "40.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Dược sư tự sự",
+    "volume_number": "Tập 14",
+    "volume_photo": "https://image.tana.moe/TOfh0UmJ3OYduss9ZeUCxzRO3vXBIwXKpOhRKGrJ/1920x0/filters:quality(90)/01ysn9wxy5iy7c4/duoc_su_tu_su_tap_14_u4vhe1v8rm.jpg",
+    "url": "https://tana.moe/title/duoc-su-tu-su-manga",
+    "release_date": "2025-09-05",
+    "price": "47.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "68.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Dấu ấn hoàng gia",
+    "volume_number": "Tập 31",
+    "volume_photo": "https://image.tana.moe/yoNEknTzSf-6EpkcPZTrD8sgxPh73ZiV-cD0j7UQ/1920x0/filters:quality(90)/5rqzq0zk95xix51/dau_an_hoang_gia_tap_31_54i7o16lzb.jpg",
+    "url": "https://tana.moe/title/dau-an-hoang-gia",
+    "release_date": "2025-09-05",
+    "price": "30.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Hoa thơm kiêu hãnh",
+    "volume_number": "Tập 5",
+    "volume_photo": "https://image.tana.moe/4vuEqYvytdJlHocoREVKkr41M4e56JCyFjukzO5h/1920x0/filters:quality(90)/219j4i272d5t2at/hoa_thom_kieu_hanh_tap_5_irgftngsd1.jpg",
+    "url": "https://tana.moe/title/hoa-thom-kieu-hanh",
+    "release_date": "2025-09-05",
+    "price": "55.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Flower Edition",
+        "price": "138.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Shangri-La Frontier ~ Thợ săn game rác khiêu chiến game thần thánh ~",
+    "volume_number": "Tập 15",
+    "volume_photo": "https://image.tana.moe/ZFTnl2ZFEtSMYZmenqnDP_zAoqpSBuW6hIgUmtfi/1920x0/filters:quality(90)/5duspv68d4k9emv/shangri_la_frontier_tho_san_game_rac_khieu_chien_game_than_thanh_tap_15_lsf4hhydfb.jpg",
+    "url": "https://tana.moe/title/shangri-la-frontier-tho-san-game-rac-khieu-chien-game-than-thanh",
+    "release_date": "2025-09-05",
+    "price": "40.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Sobotei Dinh thự ma ám",
+    "volume_number": "Tập 6",
+    "volume_photo": "https://image.tana.moe/NRdyskrqsZj1wquMKynW2aytoDYOnjlXeYwI1-pv/1920x0/filters:quality(90)/78w89c10b722b35/sobotei_dinh_thu_ma_am_tap_6_1fomjisfr7.jpg",
+    "url": "https://tana.moe/title/sobotei-dinh-thu-ma-am",
+    "release_date": "2025-09-05",
+    "price": "45.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Astro Boy - Atom cậu bé tay sắt",
+    "volume_number": "Tập 6",
+    "volume_photo": "https://image.tana.moe/VDiUOyRilAWfYc7XXjWsgWX2eTg90OE8aLaMPJBS/1920x0/filters:quality(90)/5v85jr8897m11fn/astro_boy_atom_cau_be_tay_sat_tap_6_jhp5tilyyb.jpg",
+    "url": "https://tana.moe/title/astro-boy-atom-cau-be-tay-sat",
+    "release_date": "2025-09-08",
+    "price": "60.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Bảng xếp hạng quân vương",
+    "volume_number": "Tập 13",
+    "volume_photo": "https://image.tana.moe/F6lHCzsj0vjv7y9EEfam4Hpoc6aMCGYHvLkUHQsT/1920x0/filters:quality(90)/t0xh1151mhyka6k/bang_xep_hang_quan_vuong_tap_13_c45o17sl83.jpg",
+    "url": "https://tana.moe/title/bang-xep-hang-quan-vuong",
+    "release_date": "2025-09-08",
+    "price": "45.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Em đến cùng mưa",
+    "volume_number": "Tập 3",
+    "volume_photo": "https://image.tana.moe/7Mo8XSdHOu1QBVn4uKhcQNVktde6Xecjyl4wmJn0/1920x0/filters:quality(90)/cy4v0dnwy1ktum0/em_den_cung_mua_tap_3_0xvm31nyyz.jpg",
+    "url": "https://tana.moe/title/em-den-cung-mua",
+    "release_date": "2025-09-08",
+    "price": "38.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Gap Papa - Hết giờ làm việc, tới giờ làm cha",
+    "volume_number": "Tập 4",
+    "volume_photo": "https://image.tana.moe/ibqU4tNwrlmkmG2Y46p6qVOA4OtnriGKV7ooXcR-/1920x0/filters:quality(90)/v4x3433smsb3j4b/gap_papa_het_gio_lam_viec_toi_gio_lam_cha_tap_4_phmqfru4z4.jpg",
+    "url": "https://tana.moe/title/gap-papa-het-gio-lam-viec-toi-gio-lam-cha",
+    "release_date": "2025-09-09",
+    "price": "90.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "90.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Tình yêu lv.999 của Yamada và tôi",
+    "volume_number": "Tập 2",
+    "volume_photo": "https://image.tana.moe/CqZNa0vNgA1hiUfXEKFvbq1TCleVx-5u-igU4E8s/1920x0/filters:quality(90)/9q6350st8sor34j/tinh_yeu_lv999_cua_yamada_va_toi_tap_2_vjjfd1qr8t.jpg",
+    "url": "https://tana.moe/title/tinh-yeu-lv-999-cua-yamada-va-toi",
+    "release_date": "2025-09-09",
+    "price": "60.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "60.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Yêu đi thôi những thiên thần giả dối",
+    "volume_number": "Tập 3",
+    "volume_photo": "https://image.tana.moe/7pUfMQ3wcWIdZku_16_ZeiJSh0DjtYvLwGZzmYG0/1920x0/filters:quality(90)/x344l34xjf899za/yeu_di_thoi_nhung_thien_than_gia_doi_tap_3_5qy9azkm34.jpg",
+    "url": "https://tana.moe/title/yeu-di-thoi-nhung-thien-than-gia-doi",
+    "release_date": "2025-09-09",
+    "price": "58.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Sưu tầm",
+        "price": "195.000 ₫"
+      },
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "58.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Hồ Sơ Mật The Top Secret Season 0",
+    "volume_number": "Tập 11",
+    "volume_photo": "https://image.tana.moe/HTTG9Q0iw5e94YEF5wVWwDmg1MrYIBWFv_WVZ3wj/1920x0/filters:quality(90)/1t8pi63498dg8zb/ho_so_mat_the_top_secret_season_0_tap_11_yqh3gz9uaq.jpg",
+    "url": "https://tana.moe/title/ho-so-mat-the-top-secret-season-0",
+    "release_date": "2025-09-12",
+    "price": "55.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Mèo tuần đêm",
+    "volume_number": "Tập 7",
+    "volume_photo": "https://image.tana.moe/F4H7cLPuUK_O5yCGbwaGS2X3I7liJWYrYFc5aV5D/1920x0/filters:quality(90)/25c0669q81z9ij3/meo_tuan_dem_tap_7_4yqd3yh0dv.jpg",
+    "url": "https://tana.moe/title/meo-tuan-dem",
+    "release_date": "2025-09-12",
+    "price": "45.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Phong thần diễn nghĩa",
+    "volume_number": "Tập 18",
+    "volume_photo": "https://image.tana.moe/VEYcVxjikGwvEkVA6cm3I8ELuQa2iNtkR94m3_FO/1920x0/filters:quality(90)/qhld45968855t44/phong_than_dien_nghia_tap_18_tlar8chkcd.jpg",
+    "url": "https://tana.moe/title/phong-than-dien-nghia",
+    "release_date": "2025-09-12",
+    "price": "70.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Rồng & Tắc kè hoa",
+    "volume_number": "Tập 1",
+    "volume_photo": "https://image.tana.moe/0mQtDDn5egffK4fAzix8ZFsDeo9EzIwnY0UIV02s/1920x0/filters:quality(90)/42r0w4h130x2j34/rong_tac_ke_hoa_tap_1_2teeo7ktny.jpg",
+    "url": "https://tana.moe/title/rong-and-tac-ke-hoa",
+    "release_date": "2025-09-12",
+    "price": "55.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Rồng săn tìm nhà",
+    "volume_number": "Tập 5",
+    "volume_photo": "https://image.tana.moe/mscGbQsLYVud_O6iGDqaU0z9kOCGZelSBitx_ru0/1920x0/filters:quality(90)/61bae0ae6m5h2d3/rong_san_tim_nha_tap_5_x6esp9xn95.jpg",
+    "url": "https://tana.moe/title/rong-san-tim-nha",
+    "release_date": "2025-09-12",
+    "price": "40.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Tình yêu nhân vật phụ",
+    "volume_number": "Tập 12",
+    "volume_photo": "https://image.tana.moe/7RMPYrYD3gPpzlZKc37i-td0FPDeE6JMFvE7EMLX/1920x0/filters:quality(90)/wetkv56j4dfjaqs/tinh_yeu_nhan_vat_phu_tap_12_bu3k193x81.jpg",
+    "url": "https://tana.moe/title/tinh-yeu-nhan-vat-phu",
+    "release_date": "2025-09-12",
+    "price": "45.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Yêu ôi là \"eo\"",
+    "volume_number": "Tập 3",
+    "volume_photo": "https://image.tana.moe/mW1OOHkj_KtP43UZeK_yt4Klj6wdY4-iFtfTRC6K/1920x0/filters:quality(90)/0yjih0yp040myc0/yeu_oi_la_eo_tap_3_v7o63x5ar8.jpg",
+    "url": "https://tana.moe/title/yeu-oi-la-eo",
+    "release_date": "2025-09-12",
+    "price": "50.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Blue Lock",
+    "volume_number": "Tập 28",
+    "volume_photo": "https://image.tana.moe/Oi2anO9DECnXALxqnoDgienbZhIpUQ3Q02qphYQ5/1920x0/filters:quality(90)/48482c951yv0kko/blue_lock_tap_28_y51ysopxfj.jpg",
+    "url": "https://tana.moe/title/blue-lock",
+    "release_date": "2025-09-15",
+    "price": "35.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "100.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Huyết quỷ hỗn chiến",
+    "volume_number": "Tập 9",
+    "volume_photo": "https://image.tana.moe/PAqLjeJ3QqnEqCyXPX7ly3lo_fbmTNip69BZwkHR/1920x0/filters:quality(90)/89mi3yv9d0ccb9t/huyet_quy_hon_chien_tap_9_35ibvyh1x1.jpg",
+    "url": "https://tana.moe/title/huyet-quy-hon-chien",
+    "release_date": "2025-09-15",
+    "price": "35.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Ninja Rantaro",
+    "volume_number": "Tập 60",
+    "volume_photo": "https://image.tana.moe/TFlRb2Iy8FF4gWDO7N8XeRnDmJXMXzqb6xfhKR46/1920x0/filters:quality(90)/g88003ktlo5xz76/ninja_rantaro_tap_60_00g3181msz.jpg",
+    "url": "https://tana.moe/title/ninja-rantaro",
+    "release_date": "2025-09-15",
+    "price": "40.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Úm ba la hô biến ra “cô bạn” biết yêu",
+    "volume_number": "Tập 8",
+    "volume_photo": "https://image.tana.moe/uTbJw1prBM8SRupZ_pYXGxzonMJfIyvMCvEjvfaE/1920x0/filters:quality(90)/r4a07vo57x9v58k/um_ba_la_ho_bien_ra_co_ban_biet_yeu_tap_8_xjpmo1hqxg.jpg",
+    "url": "https://tana.moe/title/um-ba-la-ho-bien-ra-co-ban-biet-yeu",
+    "release_date": "2025-09-15",
+    "price": "60.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Sưu tầm",
+        "price": "130.000 ₫"
+      },
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "60.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Chúa tể bóng tối",
+    "volume_number": "Tập 13",
+    "volume_photo": "https://image.tana.moe/HAzJ3Ssqsml6gM0CNGj8SofK09YWQtNG4Smh1oMA/1920x0/filters:quality(90)/si82j06j3p9d5pe/chua_te_bong_toi_tap_13_9crkpu8qge.jpg",
+    "url": "https://tana.moe/title/chua-te-bong-toi-manga",
+    "release_date": "2025-09-19",
+    "price": "40.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Cú đấm phúc âm",
+    "volume_number": "Tập 3",
+    "volume_photo": "https://image.tana.moe/58PVLVYyFPL9P__Co3BVcqdaFpQMsh-7fydiLzkC/1920x0/filters:quality(90)/42n6dbc4r2pj0nc/cu_dam_phuc_am_tap_3_9u14lrz1xw.jpg",
+    "url": "https://tana.moe/title/cu-dam-phuc-am",
+    "release_date": "2025-09-19",
+    "price": "55.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Dấu ấn hoàng gia",
+    "volume_number": "Tập 32",
+    "volume_photo": "https://image.tana.moe/o9gHn4C9o--lo9ElzoiJ_NKuTHWJZaNxlykAD9-y/1920x0/filters:quality(90)/m41cg1fm9n8g4q8/dau_an_hoang_gia_tap_32_v5bmve6yx0.jpg",
+    "url": "https://tana.moe/title/dau-an-hoang-gia",
+    "release_date": "2025-09-19",
+    "price": "30.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Hoa thơm kiêu hãnh",
+    "volume_number": "Tập 6",
+    "volume_photo": "https://image.tana.moe/SfpBxqBeOoPVtn0_-kdvB-Khfa__pdi7r7hMAT1b/1920x0/filters:quality(90)/t44p0723toqu9c0/hoa_thom_kieu_hanh_tap_6_uo1med7n9a.jpg",
+    "url": "https://tana.moe/title/hoa-thom-kieu-hanh",
+    "release_date": "2025-09-19",
+    "price": "55.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Rồng & Tắc kè hoa",
+    "volume_number": "Tập 2",
+    "volume_photo": "https://image.tana.moe/xwu1UZQmp-2683hODfh6T6eTWe4ghjrhBVJjjKUs/1920x0/filters:quality(90)/w98553pl700ga14/rong_tac_ke_hoa_tap_2_r7eal1386i.jpg",
+    "url": "https://tana.moe/title/rong-and-tac-ke-hoa",
+    "release_date": "2025-09-19",
+    "price": "55.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Sakamoto Days",
+    "volume_number": "Tập 20",
+    "volume_photo": "https://image.tana.moe/iBdyaUQZTmnpw6vHeuVGNDdY8VWbm57XUyZ20ToF/1920x0/filters:quality(90)/7n3p15fz04imexg/sakamoto_days_tap_20_fwbzz0p9kh.jpg",
+    "url": "https://tana.moe/title/sakamoto-days",
+    "release_date": "2025-09-19",
+    "price": "45.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Shangri-La Frontier ~ Thợ săn game rác khiêu chiến game thần thánh ~",
+    "volume_number": "Tập 16",
+    "volume_photo": "https://image.tana.moe/ojjvp-oyKF_S2pX0ZYF5OVhwqO_GAJqzqmVj3l0Y/1920x0/filters:quality(90)/bd181576syy3o96/shangri_la_frontier_tho_san_game_rac_khieu_chien_game_than_thanh_tap_16_4mnvy7a59t.jpg",
+    "url": "https://tana.moe/title/shangri-la-frontier-tho-san-game-rac-khieu-chien-game-than-thanh",
+    "release_date": "2025-09-19",
+    "price": "40.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Thánh địa khủng long",
+    "volume_number": "Tập 4",
+    "volume_photo": "https://image.tana.moe/p83LPVdkTcR93z2fkoFtcRCmnsMDAwiGnQWJvBrb/1920x0/filters:quality(90)/cj6665n4n3jn9ml/thanh_dia_khung_long_tap_4_vtbota72lu.jpg",
+    "url": "https://tana.moe/title/thanh-dia-khung-long",
+    "release_date": "2025-09-19",
+    "price": "55.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Điện hạ Umeboshi",
+    "volume_number": "Tập 1",
+    "volume_photo": "https://image.tana.moe/jN711TgM5JMq7xJ_yUF6WrEPFLfTt6f4c0xeRkvV/1920x0/filters:quality(90)/8kinuvpfh850zwk/dien_ha_umeboshi_tap_1_ghu97dkg8e.jpg",
+    "url": "https://tana.moe/title/dien-ha-umeboshi",
+    "release_date": "2025-09-19",
+    "price": "25.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Điện hạ Umeboshi",
+    "volume_number": "Tập 2",
+    "volume_photo": "https://image.tana.moe/f-FBim4vtY_hHqx6MN9_76xiQPP88NlzzL9us1DU/1920x0/filters:quality(90)/kx5o32k72jhz82k/dien_ha_umeboshi_tap_2_wbmov6j6zq.jpg",
+    "url": "https://tana.moe/title/dien-ha-umeboshi",
+    "release_date": "2025-09-19",
+    "price": "25.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Điện hạ Umeboshi",
+    "volume_number": "Tập 3",
+    "volume_photo": "https://image.tana.moe/RMYoD1I7O4jdE7s00oeRJCYQa_nmULgs89kuzEFL/1920x0/filters:quality(90)/1ragm7i29r27e1w/dien_ha_umeboshi_tap_3_9898ia2mo9.jpg",
+    "url": "https://tana.moe/title/dien-ha-umeboshi",
+    "release_date": "2025-09-19",
+    "price": "25.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Hell Mode - Game thủ xuất chúng tung hoành chốn Dị giới hỗn nguyên - Triệu hồi sư khởi nguyên",
+    "volume_number": "Tập 3",
+    "volume_photo": "https://image.tana.moe/YCRShpvM0V01nFhlJtaNd5xgKz6M1kMZL9SYk5uh/1920x0/filters:quality(90)/2q08dg5lej68pvx/hell_mode_game_thu_xuat_chung_tung_hoanh_chon_di_gioi_hon_nguyen_trieu_hoi_su_khoi_nguyen_tap_3_awrsh0jyxm.png",
+    "url": "https://tana.moe/title/hell-mode-game-thu-xuat-chung-tung-hoanh-chon-di-gioi-hon-nguyen-trieu-hoi-su-khoi-nguyen",
+    "release_date": "2025-09-20",
+    "price": "55.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Bảng xếp hạng quân vương",
+    "volume_number": "Tập 14",
+    "volume_photo": "https://image.tana.moe/4te0pNQTdhcDGHSxFq1G7hyjxbQLkAZDTQKt6JFt/1920x0/filters:quality(90)/5p3461c3k0qp82e/bang_xep_hang_quan_vuong_tap_14_y2o1yqv4hm.jpg",
+    "url": "https://tana.moe/title/bang-xep-hang-quan-vuong",
+    "release_date": "2025-09-22",
+    "price": "45.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Chú thuật hồi chiến",
+    "volume_number": "Tập 26",
+    "volume_photo": "https://image.tana.moe/HRcWsp2BYUA0rq-Lg62-haiQ3QGnZc0GSRJjC8bv/1920x0/filters:quality(90)/a19k5031a4c7a5z/chu_thuat_hoi_chien_tap_26_q3ua183ihx.jpg",
+    "url": "https://tana.moe/title/chu-thuat-hoi-chien",
+    "release_date": "2025-09-22",
+    "price": "30.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "100.000 ₫"
+      },
+      {
+        "edition": "Limited Edition",
+        "price": "65.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Em bé và tôi",
+    "volume_number": "Tập 4",
+    "volume_photo": "https://image.tana.moe/Xx_UWTieAJbVsqnJqVqfN8Ra4pkf8-tfJYPh6U0I/1920x0/filters:quality(90)/nxrglo01645n1mh/em_be_va_toi_tap_4_vu16wu9921.jpg",
+    "url": "https://tana.moe/title/em-be-va-toi",
+    "release_date": "2025-09-22",
+    "price": "75.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Shadows House",
+    "volume_number": "Tập 18",
+    "volume_photo": "https://image.tana.moe/m61b_5PfRzQWN9EMLBv6-bb6pHfcMcY02jjMWOY8/1920x0/filters:quality(90)/8yz4ncl0a9x2204/shadows_house_tap_18_z8gp0ql6mr.jpg",
+    "url": "https://tana.moe/title/shadows-house",
+    "release_date": "2025-09-22",
+    "price": "45.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Bungo Stray Dogs Wan! - Văn hào lưu lạc - Gâu!",
+    "volume_number": "Tập 1",
+    "volume_photo": "https://image.tana.moe/pyEAtCYUKd3VnmuDhVr1_FlCKUnYn0aNLwcZSr7i/1920x0/filters:quality(90)/3e2zl929idbxflz/bungo_stray_dogs_wan_van_hao_luu_lac_gau_tap_1_lwgzpwuqss.jpg",
+    "url": "https://tana.moe/title/bungo-stray-dogs-wan-van-hao-luu-lac-gau",
+    "release_date": "2025-09-25",
+    "price": "50.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "50.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Khúc danh đề biển cả",
+    "volume_number": "Tập 2",
+    "volume_photo": "https://image.tana.moe/GANYsBK1UoG8SfcVSAeCfyKBJFRxHxtArXzAKmzY/1920x0/filters:quality(90)/dwmwh1l26w47632/khuc_danh_de_bien_ca_tap_2_a5fg8jtsus.jpg",
+    "url": "https://tana.moe/title/khuc-danh-de-bien-ca",
+    "release_date": "2025-09-25",
+    "price": "55.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "55.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Lycoris Recoil - Tuyển tập ngoại truyện: Nhắc lại - Official Comic Anthology: Reload",
+    "volume_number": "Tập 3",
+    "volume_photo": "https://image.tana.moe/yJc5ZxdxP5Ohr3XZLszdNeWiADj0XnYaoM2cy4lh/1920x0/filters:quality(90)/5f2o8i6eo04rjwa/lycoris_recoil_tuyen_tap_ngoai_truyen_nhac_lai_official_comic_anthology_reload_tap_3_dl57yssvn7.jpg",
+    "url": "https://tana.moe/title/lycoris-recoil-tuyen-tap-ngoai-truyen-nhac-lai-official-comic-anthology-reload",
+    "release_date": "2025-09-25",
+    "price": "55.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "55.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Lycoris Recoil - Tuyển tập ngoại truyện: Tiếp nối - Official Comic Anthology: Repeat",
+    "volume_number": "Tập 2",
+    "volume_photo": "https://image.tana.moe/jJjI6hkhD6eR2kwBzfl2ZTBcfUw9H5W2uiJfoNJK/1920x0/filters:quality(90)/lv69g4862099290/lycoris_recoil_tuyen_tap_ngoai_truyen_tiep_noi_official_comic_anthology_repeat_tap_2_dxmueonq0j.jpg",
+    "url": "https://tana.moe/title/lycoris-recoil-tuyen-tap-ngoai-truyen-tiep-noi-official-comic-anthology-repeat",
+    "release_date": "2025-09-25",
+    "price": "55.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "55.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Nodame Cantabile - Khúc ngẫu hứng của Nodame",
+    "volume_number": "Tập 9",
+    "volume_photo": "https://image.tana.moe/mVGE-mXvqpDYY1NefG4Wan3sntgJDn5BJH0epqhv/1920x0/filters:quality(90)/efp2b3c2g0dl868/nodame_cantabile_khuc_ngau_hung_cua_nodame_tap_9_qjm86pz3zu.png",
+    "url": "https://tana.moe/title/nodame-cantabile-khuc-ngau-hung-cua-nodame",
+    "release_date": "2025-09-25",
+    "price": "115.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Summer time render – Vòng lặp mùa hè",
+    "volume_number": "Tập 13",
+    "volume_photo": "https://image.tana.moe/Xa-Hdzx6q8WW1fD_7f3A3R0HYg5jG15zuoixsFzC/1920x0/filters:quality(90)/wm9237cdb5k292r/summer_time_render_vong_lap_mua_he_tap_13_plctjnujbc.jpg",
+    "url": "https://tana.moe/title/summer-time-render-vong-lap-mua-he",
+    "release_date": "2025-09-25",
+    "price": "70.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "100.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Yotsuba&!",
+    "volume_number": "Tập 16",
+    "volume_photo": "https://image.tana.moe/0WIQ6apY7nXidyD2brtGNvAM98ixFq-rBKZR1CjM/1920x0/filters:quality(90)/2dl956e49w13042/3d271653_1530_49ff_882d_73ef6c8ea3c3_67ozw7kcm0.jpg",
+    "url": "https://tana.moe/title/yotsubato",
+    "release_date": "2025-09-25",
+    "price": "70.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Sưu tầm",
+        "price": "165.000 ₫"
+      },
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "70.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Chu du ẩm thực tại Dị giới với kĩ năng không tưởng - Sui phiêu lưu kí",
+    "volume_number": "Tập 1",
+    "volume_photo": "https://image.tana.moe/mTcyvGzVXGPAAfJ2dvfSlL-pwo7y_k-P2Cle-SW5/1920x0/filters:quality(90)/fo2w54730q10nv5/chu_du_am_thuc_tai_di_gioi_voi_ki_nang_khong_tuong_sui_phieu_luu_ki_tap_1_cek879otkl.jpg",
+    "url": "https://tana.moe/title/chu-du-am-thuc-tai-di-gioi-voi-ki-nang-khong-tuong-sui-phieu-luu-ki",
+    "release_date": "2025-09-26",
+    "price": "35.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Claymore",
+    "volume_number": "Tập 21",
+    "volume_photo": "https://image.tana.moe/ns_C5VMuWa_AH9flyob6IRzE9Q6MEaLiTk0vUGrc/1920x0/filters:quality(90)/4o8k116e5je94s6/claymore_tap_21_th5vv8lj5c.jpg",
+    "url": "https://tana.moe/title/claymore",
+    "release_date": "2025-09-26",
+    "price": "40.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Ghost Hunt",
+    "volume_number": "Tập 4",
+    "volume_photo": null,
+    "url": "https://tana.moe/title/ghost-hunt",
+    "release_date": "2025-09-26",
+    "price": "105.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Hẹn gặp lại, quốc vương của tôi",
+    "volume_number": "Tập 4",
+    "volume_photo": "https://image.tana.moe/UZWSBaDbRdK1lLsOqw_jwo1nqhQOW2h2Mm8IIrKV/1920x0/filters:quality(90)/4je7356qgy0e8r0/hen_gap_lai_quoc_vuong_cua_toi_tap_4_sl6se9ry8r.png",
+    "url": "https://tana.moe/title/hen-gap-lai-quoc-vuong-cua-toi",
+    "release_date": "2025-09-26",
+    "price": "179.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "269.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Rồng săn tìm nhà",
+    "volume_number": "Tập 6",
+    "volume_photo": "https://image.tana.moe/9H72MbwG5MvgNV6OLKpieF0fuKxowl9I5N2dvolX/1920x0/filters:quality(90)/459ie67aumawcr8/rong_san_tim_nha_tap_6_bc308o4oky.jpg",
+    "url": "https://tana.moe/title/rong-san-tim-nha",
+    "release_date": "2025-09-26",
+    "price": "40.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Sobotei Dinh thự ma ám",
+    "volume_number": "Tập 7",
+    "volume_photo": "https://image.tana.moe/AIxNkGu3cQQNSbbMkvsMR8WVnp9WhHk42vhQUCCR/1920x0/filters:quality(90)/or508l40m011963/sobotei_dinh_thu_ma_am_tap_7_0limmnf9nn.jpg",
+    "url": "https://tana.moe/title/sobotei-dinh-thu-ma-am",
+    "release_date": "2025-09-26",
+    "price": "45.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "SƠN, GOAL!",
+    "volume_number": "Tập 4",
+    "volume_photo": "https://image.tana.moe/yISb5Zps5xqrvhTEjK3mbosji0NXdz1mz9835H3V/1920x0/filters:quality(90)/rc95h425u2rdhum/son_goal_tap_4_k6bzlpyh8s.jpg",
+    "url": "https://tana.moe/title/son-goal",
+    "release_date": "2025-09-26",
+    "price": "45.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Thám tử Conan Hoạt hình màu: Viên đạn đỏ",
+    "volume_number": "Tập 1",
+    "volume_photo": "https://image.tana.moe/-Poi1EzyRs2Fdnk6mXlkXe4F0_2Y_L5nIC7OXtIi/1920x0/filters:quality(90)/9z9rxe90c9bwc44/tham_tu_conan_hoat_hinh_mau_vien_dan_do_tap_1_26jwgi4b9n.jpg",
+    "url": "https://tana.moe/title/tham-tu-conan-hoat-hinh-mau-vien-dan-do",
+    "release_date": "2025-09-26",
+    "price": "60.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Thám tử Conan Hoạt hình màu: Viên đạn đỏ",
+    "volume_number": "Tập 2",
+    "volume_photo": "https://image.tana.moe/xm7WaqB21aGhkGyehoWrVyxsaQ1giEqXRdc0i-ZO/1920x0/filters:quality(90)/2dmqzw7036m8901/tham_tu_conan_hoat_hinh_mau_vien_dan_do_tap_2_pcz8a3zzja.jpg",
+    "url": "https://tana.moe/title/tham-tu-conan-hoat-hinh-mau-vien-dan-do",
+    "release_date": "2025-09-26",
+    "price": "60.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Thám tử lừng danh Conan",
+    "volume_number": "Tập 42",
+    "volume_photo": "https://image.tana.moe/9vkNBW92h2KBTvatlXz5zyS1tNdUTgeHLe-z5dch/1920x0/filters:quality(90)/5i70n4l6aj86567/tham_tu_lung_danh_conan_tap_42_3vgtcpca98.jpg",
+    "url": "https://tana.moe/title/tham-tu-lung-danh-conan",
+    "release_date": "2025-09-26",
+    "price": "35.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Thám tử lừng danh Conan",
+    "volume_number": "Tập 43",
+    "volume_photo": "https://image.tana.moe/9HkNmTZJ73ubvgwQASHhTaLQ8mgUGt9PP1Bb3cG4/1920x0/filters:quality(90)/fvdicb0uqtrj010/tham_tu_lung_danh_conan_tap_43_2wvjnp3984.jpg",
+    "url": "https://tana.moe/title/tham-tu-lung-danh-conan",
+    "release_date": "2025-09-26",
+    "price": "35.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Thám tử lừng danh Conan",
+    "volume_number": "Tập 44",
+    "volume_photo": "https://image.tana.moe/atr8jm-wTP7FoSZnJ932MprTdOEhA5FdemaZ0s_b/1920x0/filters:quality(90)/47jajllpp56473o/tham_tu_lung_danh_conan_tap_44_0fixzc0b1g.jpg",
+    "url": "https://tana.moe/title/tham-tu-lung-danh-conan",
+    "release_date": "2025-09-26",
+    "price": "35.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Thám tử lừng danh Conan",
+    "volume_number": "Tập 45",
+    "volume_photo": "https://image.tana.moe/mNvymsKnofSu9QpeA1pdI34CqUU90T5ulgvnTVGv/1920x0/filters:quality(90)/6h1p22785809d6h/tham_tu_lung_danh_conan_tap_45_yeg8stxqwu.jpg",
+    "url": "https://tana.moe/title/tham-tu-lung-danh-conan",
+    "release_date": "2025-09-26",
+    "price": "35.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Tình yêu nhân vật phụ",
+    "volume_number": "Tập 13",
+    "volume_photo": "https://image.tana.moe/R9AFwBYlD7Ac3MKhsKhw0orkMQhVcchGUn4cM9PQ/1920x0/filters:quality(90)/08ktdixv64118jj/tinh_yeu_nhan_vat_phu_tap_13_a3etbor43q.jpg",
+    "url": "https://tana.moe/title/tinh-yeu-nhan-vat-phu",
+    "release_date": "2025-09-26",
+    "price": "45.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Vùng đất xa xăm",
+    "volume_number": "Tập 4",
+    "volume_photo": "https://image.tana.moe/2NU34_GHtBx8NtXcs2S2Jvt1YXYwqp7nIQr0sBem/1920x0/filters:quality(90)/97231yi0pafrx7x/vung_dat_xa_xam_tap_4_9s8v9182cg.jpg",
+    "url": "https://tana.moe/title/vung-dat-xa-xam",
+    "release_date": "2025-09-26",
+    "price": "90.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Yêu ôi là \"eo\"",
+    "volume_number": "Tập 4",
+    "volume_photo": "https://image.tana.moe/uXvSIBm9KHHjEUWk6luCTFPyXmBYOLKpeX_a592F/1920x0/filters:quality(90)/y2y1n4zc4bt9090/yeu_oi_la_eo_tap_4_hqr4oqn1a1.jpg",
+    "url": "https://tana.moe/title/yeu-oi-la-eo",
+    "release_date": "2025-09-26",
+    "price": "50.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Hell Mode - Game thủ xuất chúng tung hoành chốn Dị giới hỗn nguyên - Triệu hồi sư khởi nguyên",
+    "volume_number": "Tập 3",
+    "volume_photo": "https://image.tana.moe/jQLai1yRHs_xD3aaRBCsAIqn8Ud7CwmydllE2v9K/1920x0/filters:quality(90)/g31uf47m26l6q12/d0643180_1593_4c16_81c4_9a9e736841f4_4ugxysyroy.jpg",
+    "url": "https://tana.moe/title/hell-mode-game-thu-xuat-chung-tung-hoanh-chon-di-gioi-hon-nguyen-trieu-hoi-su-khoi-nguyen",
+    "release_date": "2025-09-27",
+    "price": "49.500 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Ai đã giết anh hùng",
+    "volume_number": "Tập 1",
+    "volume_photo": "https://image.tana.moe/rogjVgx9hWt6G7Y-ll3baDPfjQU3JJcmdDWFTVF2/1920x0/filters:quality(90)/1hde463f370hq5w/ai_da_giet_anh_hung_tap_1_657hle1ftl.jpg",
+    "url": "https://tana.moe/title/ai-da-giet-anh-hung",
+    "release_date": "2025-09-29",
+    "price": "120.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "120.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Huyết quỷ hỗn chiến",
+    "volume_number": "Tập 10",
+    "volume_photo": "https://image.tana.moe/HKEQK7nvkkkgaW0acNMPvR1paAzeta0r8v90_XJ0/1920x0/filters:quality(90)/ss7eh1ov62lccc8/huyet_quy_hon_chien_tap_10_k80p08k0r9.jpg",
+    "url": "https://tana.moe/title/huyet-quy-hon-chien",
+    "release_date": "2025-09-29",
+    "price": "35.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Masamune báo thù",
+    "volume_number": "Tập 1",
+    "volume_photo": "https://image.tana.moe/rCgl1h9GQq2sKRRdVm7MDqreODluMz4IQfaBcBOs/1920x0/filters:quality(90)/db9u810543awn4n/masamune_bao_thu_tap_1_8o0532r9z9.jpg",
+    "url": "https://tana.moe/title/masamune-bao-thu",
+    "release_date": "2025-09-29",
+    "price": "38.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Những ngày thường bất ổn của Yano",
+    "volume_number": "Tập 1",
+    "volume_photo": "https://image.tana.moe/VnkZsdigdYBbruVtozXoT6BtpaG1Ba_kUNfPs1r0/1920x0/filters:quality(90)/dtqm03qovs02244/nhung_ngay_thuong_bat_on_cua_yano_tap_1_8s2wi4v44s.jpg",
+    "url": "https://tana.moe/title/nhung-ngay-thuong-bat-on-cua-yano",
+    "release_date": "2025-09-29",
+    "price": "45.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Ninja Rantaro",
+    "volume_number": "Tập 61",
+    "volume_photo": null,
+    "url": "https://tana.moe/title/ninja-rantaro",
+    "release_date": "2025-09-29",
+    "price": "40.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Sword Art Online",
+    "volume_number": "Tập 28",
+    "volume_photo": "https://image.tana.moe/4Z4TnF63fpdpDNoJgg9P1R5qSyxtFDCW6wiJ3EDr/1920x0/filters:quality(90)/7z24ddkz687kv7r/sword_art_online_tap_28_kkk7934kwu.jpg",
+    "url": "https://tana.moe/title/sword-art-online",
+    "release_date": "2025-09-29",
+    "price": "125.000 ₫",
+    "other_editions": [
+      {
+        "edition": "Bản Đặc biệt",
+        "price": "160.000 ₫"
+      }
+    ]
+  },
+  {
+    "title": "Tớ là mèo Pusheen",
+    "volume_number": "Tập 3",
+    "volume_photo": null,
+    "url": "https://tana.moe/title/to-la-meo-pusheen",
+    "release_date": "2025-09-29",
+    "price": "80.000 ₫",
+    "other_editions": []
+  },
+  {
+    "title": "Nhật ký ngày chung đôi",
+    "volume_number": "Tập 1",
+    "volume_photo": "https://image.tana.moe/4YOYHenfp18bAswoLSqrclfIKvPh_W-pXLK9wNdI/1920x0/filters:quality(90)/34566h41907fv8w/nhat_ky_ngay_chung_doi_tap_1_6y3olh9kca.png",
+    "url": "https://tana.moe/title/nhat-ky-ngay-chung-doi",
+    "release_date": "2025-09-30",
+    "price": "85.000 ₫",
+    "other_editions": []
+  }
+]

@@ -5,609 +5,147 @@
     <link>https://lph.truyenbanquyen.com?month=2026-06</link>
     <description>Lịch phát hành manga bản quyền tại Việt Nam</description>
     <language>vi</language>
-    <lastBuildDate>Thu, 25 Jun 2026 17:10:51 +0700</lastBuildDate>
-    <items_data><![CDATA[[{"title": "BEASTARS", "volume_number": "Tập 15", "volume_photo": "https://image.tana.moe/P5t49aDHOZ4WJ5elxwQXmOhalwbbZETMyijM-HIp/1920x0/filters:quality(90)/759bhngg9tlxt3s/beastars_tap_15_cxyjfa5b4v.jpg", "url": "https://tana.moe/title/beastars", "release_date": "2026-06-01", "price": "35.000 ₫", "other_editions": []}, {"title": "Có thứ muốn ăn thịt tôi", "volume_number": "Tập 11", "volume_photo": "https://image.tana.moe/_WoOqHv4r25OamsQ4U3IrgdE6tjBqkMhs0ub1XOF/1920x0/filters:quality(90)/mgitw43iwz8jdhu/co_thu_muon_an_thit_toi_tap_11_c6l7xt0twp.jpg", "url": "https://tana.moe/title/co-thu-muon-an-thit-toi", "release_date": "2026-06-01", "price": "60.000 ₫", "other_editions": [{"edition": "Bản Đặc biệt", "price": "60.000 ₫"}]}, {"title": "Hiên sau siêu thị muộn phiền bay đi", "volume_number": "Tập 6", "volume_photo": "https://image.tana.moe/Tjw1c3o52HqkAHPi3s_82NRaafuIeWr_euyhfgPW/1920x0/filters:quality(90)/nqt99ewjuaq7kl3/hien_sau_sieu_thi_muon_phien_bay_di_tap_6_h7jcx9du44.jpg", "url": "https://tana.moe/title/hien-sau-sieu-thi-muon-phien-bay-di", "release_date": "2026-06-01", "price": "70.000 ₫", "other_editions": [{"edition": "Bản Đặc biệt", "price": "70.000 ₫"}]}, {"title": "Host Club trường Ouran", "volume_number": "Tập 6", "volume_photo": "https://image.tana.moe/HOUCgKAQi_QcwHWg-nhH4BRW_3_lnNGlhxKvlTRB/1920x0/filters:quality(90)/gyifr5vufpj8lfj/host_club_truong_ouran_tap_6_iq2itpnq0p.jpg", "url": "https://tana.moe/title/host-club-truong-ouran", "release_date": "2026-06-01", "price": "35.000 ₫", "other_editions": []}, {"title": "Komi - Nữ thần sợ giao tiếp", "volume_number": "Tập 33", "volume_photo": "https://image.tana.moe/B4T4PqmqBBS91-b35agLbEgymWsePJEyyx1g6cV1/1920x0/filters:quality(90)/uor5p0k0vuq1rzh/komi_nu_than_so_giao_tiep_tap_33_932r6a2mhd.jpg", "url": "https://tana.moe/title/komi-nu-than-so-giao-tiep", "release_date": "2026-06-01", "price": "30.000 ₫", "other_editions": []}, {"title": "Nơi quán nhỏ ngập ngừng", "volume_number": "Tập 4", "volume_photo": "https://image.tana.moe/43B-B06eQhz8nRIJoN6ZGe9FKD7SPQN-JF0oEzOP/1920x0/filters:quality(90)/tneqnvh8broxbit/noi_quan_nho_ngap_ngung_tap_4_wq5g8fts6l.jpg", "url": "https://tana.moe/title/noi-quan-nho-ngap-ngung", "release_date": "2026-06-01", "price": "60.000 ₫", "other_editions": [{"edition": "Bản Đặc biệt", "price": "60.000 ₫"}]}, {"title": "Phát phiền với bạn thân của chị", "volume_number": "Tập 1", "volume_photo": "https://image.tana.moe/eulpujXbPie-uY3V8mQdwDd3M-6IpRsvW5I6uiTC/1920x0/filters:quality(90)/p8fee0ua2xhm5h8/phat_phien_voi_ban_than_cua_chi_tap_1_mcbqit5wgh.jpg", "url": "https://tana.moe/title/phat-phien-voi-ban-than-cua-chi", "release_date": "2026-06-01", "price": "55.000 ₫", "other_editions": [{"edition": "Bản Đặc biệt", "price": "55.000 ₫"}]}, {"title": "Phải lòng chị của bạn thân", "volume_number": "Tập 1", "volume_photo": "https://image.tana.moe/WDFrwloV-ax7_7wxreJGU8WUHZCZy2gUCayirbTG/1920x0/filters:quality(90)/wns6p6jrpwmileh/phai_long_chi_cua_ban_than_tap_1_gjfwt85wct.jpg", "url": "https://tana.moe/title/phai-long-chi-cua-ban-than", "release_date": "2026-06-01", "price": "55.000 ₫", "other_editions": [{"edition": "Bản Đặc biệt", "price": "55.000 ₫"}]}, {"title": "DAN DA DAN", "volume_number": "Tập 4", "volume_photo": "https://image.tana.moe/ngzueeQTyccVT_u1QHDHGbAb0uQTp0l8tGXCk7SY/1920x0/filters:quality(90)/ustt5d9hnl7xfi1/dan_da_dan_tap_4_ja7ds94o2z.jpg", "url": "https://tana.moe/title/dan-da-dan", "release_date": "2026-06-05", "price": "45.000 ₫", "other_editions": []}, {"title": "Em đến cùng mưa", "volume_number": "Tập 7", "volume_photo": "https://image.tana.moe/dR8bI17UMWPv2NhaHpBeLhPjPDX699rj-4QnJnEu/1920x0/filters:quality(90)/qoozz66l54dm8es/em_den_cung_mua_tap_7_jxrnj3klny.jpg", "url": "https://tana.moe/title/em-den-cung-mua", "release_date": "2026-06-05", "price": "38.000 ₫", "other_editions": []}, {"title": "Hikaru - Kì thủ cờ vây", "volume_number": "Tập 5", "volume_photo": "https://image.tana.moe/FZKuhdHX_B_iIvlkkTOSX5dM6P9JVFSsFoNW_gJv/1920x0/filters:quality(90)/um6aodphoy4ali9/hikaru_ki_thu_co_vay_tap_5_wefnnj74wz.jpg", "url": "https://tana.moe/title/hikaru-ki-thu-co-vay", "release_date": "2026-06-05", "price": "80.000 ₫", "other_editions": []}, {"title": "Hoa thơm kiêu hãnh", "volume_number": "Tập 22", "volume_photo": "https://image.tana.moe/DY5KvBT73NpVYTDUmHhfn8kpoea35-U9ZNm2dlYa/1920x0/filters:quality(90)/06qla1x4buyurri/hoa_thom_kieu_hanh_tap_22_p0kbsyjvuw.jpg", "url": "https://tana.moe/title/hoa-thom-kieu-hanh", "release_date": "2026-06-05", "price": "55.000 ₫", "other_editions": []}, {"title": "Nữ binh thần tốc", "volume_number": "Tập 16", "volume_photo": "https://image.tana.moe/Zju3kepAT48GHQeFXsXFXcajx6P54Ug4lJRI4rh-/1920x0/filters:quality(90)/q5z87ro9109gtjj/nu_binh_than_toc_tap_16_ooufvditwe.jpg", "url": "https://tana.moe/title/nu-binh-than-toc", "release_date": "2026-06-05", "price": "45.000 ₫", "other_editions": []}, {"title": "Ship of Theseus", "volume_number": "Tập 7", "volume_photo": "https://image.tana.moe/9K6GWf7QxZgDPjcG8U4OQ01NEeFWRWmKC2a1OZ0y/1920x0/filters:quality(90)/670yjo5y236c8pt/ship_of_theseus_tap_7_mxi7azewz3.jpg", "url": "https://tana.moe/title/ship-of-theseus", "release_date": "2026-06-05", "price": "50.000 ₫", "other_editions": []}, {"title": "Thủy cung đáy biển Magmell", "volume_number": "Tập 7", "volume_photo": "https://image.tana.moe/rJdxDY8_RmIzwTsq9ThFdKn1Zt1L-tm3mv1Kt70p/1920x0/filters:quality(90)/6zpg8yybu5w92nu/thuy_cung_day_bien_magmell_tap_7_p79er10f4z.jpg", "url": "https://tana.moe/title/thuy-cung-day-bien-magmell", "release_date": "2026-06-05", "price": "40.000 ₫", "other_editions": []}, {"title": "Thám tử thừa kế", "volume_number": "Tập 2", "volume_photo": "https://image.tana.moe/JcjtmAzj3uCLYHmVXXopvb416e8MKYcGgcoiZ6Zi/1920x0/filters:quality(90)/hzb0vff6xsigacd/tham_tu_thua_ke_tap_2_upccxrah80.jpg", "url": "https://tana.moe/title/tham-tu-thua-ke", "release_date": "2026-06-05", "price": "55.000 ₫", "other_editions": []}, {"title": "Trái dấu hút nhau", "volume_number": "Tập 2", "volume_photo": "https://image.tana.moe/44MIYomHgoWCluRyFwj2W-cZL3gybs24o-a0d3Cf/1920x0/filters:quality(90)/11aoxkjy2dv7ync/trai_dau_hut_nhau_tap_2_pb0v0dqzvc.jpg", "url": "https://tana.moe/title/trai-dau-hut-nhau", "release_date": "2026-06-05", "price": "60.000 ₫", "other_editions": []}, {"title": "Gokurakugai", "volume_number": "Tập 3", "volume_photo": "https://image.tana.moe/f2EZAE0mRlxrVCqXz8kcwd9eVGytzBjTkPcKWY9m/1920x0/filters:quality(90)/19teb0m019bi9wy/gokurakugai_tap_3_p9f42znl9q.jpg", "url": "https://tana.moe/title/gokurakugai", "release_date": "2026-06-06", "price": "65.000 ₫", "other_editions": [{"edition": "Bản Sưu tầm", "price": "135.000 ₫"}, {"edition": "Bản Đặc biệt", "price": "65.000 ₫"}]}, {"title": "Hakumei & Mikochi", "volume_number": "Tập 2", "volume_photo": "https://image.tana.moe/wd7XT2cGbQz-mHrwG0nxTZgv-SFOGg9h41GwnWa9/1920x0/filters:quality(90)/r6fuoqggb8xldiq/hakumei_mikochi_tap_2_2kytb78lo2.png", "url": "https://tana.moe/title/hakumei-and-mikochi", "release_date": "2026-06-06", "price": "65.000 ₫", "other_editions": [{"edition": "Bản Đặc biệt", "price": "65.000 ₫"}]}, {"title": "Nắng ấm và câu lạc bộ bốn mùa", "volume_number": "Tập 2", "volume_photo": "https://image.tana.moe/d3VoGrlsOrZcT0FZ1Ss_MZKT5OGKlqq9AEWFOoU5/1920x0/filters:quality(90)/xx6dnh2mi9f0aox/nang_am_va_cau_lac_bo_bon_mua_tap_2_p7lpt8stk7.jpg", "url": "https://tana.moe/title/nang-am-va-cau-lac-bo-bon-mua", "release_date": "2026-06-06", "price": "65.000 ₫", "other_editions": [{"edition": "Bản Đặc biệt", "price": "65.000 ₫"}]}, {"title": "Blue Box", "volume_number": "Tập 15", "volume_photo": "https://image.tana.moe/vM713cfXZWwr3BYfLMLq94MdhS4RUG8EO7hkvZd9/1920x0/filters:quality(90)/mdzoje8ftwcev69/blue_box_tap_15_3u1l8qz4a3.jpg", "url": "https://tana.moe/title/blue-box", "release_date": "2026-06-08", "price": "40.000 ₫", "other_editions": []}, {"title": "Chú thuật hồi chiến", "volume_number": "Tập 28", "volume_photo": "https://image.tana.moe/CgWfZUGtX_x-9fgLZIzQE6A-YBw5quLMuaBBP33s/1920x0/filters:quality(90)/ch5n6p0g3fxeecc/chu_thuat_hoi_chien_tap_28_t18w8erl01.jpg", "url": "https://tana.moe/title/chu-thuat-hoi-chien", "release_date": "2026-06-08", "price": "30.000 ₫", "other_editions": [{"edition": "Limited Edition", "price": "65.000 ₫"}]}, {"title": "Dã ngoại thảnh thơi - Yuru Camp", "volume_number": "Tập 13", "volume_photo": "https://image.tana.moe/UYb0caH1GxFJz7JGUUd-E9lTkL1FBu2OBhJSoz0h/1920x0/filters:quality(90)/jom63fiqx7dcnar/da_ngoai_thanh_thoi_yuru_camp_tap_13_6zz4ucttlx.jpg", "url": "https://tana.moe/title/da-ngoai-thanh-thoi-yuru-camp", "release_date": "2026-06-08", "price": "30.000 ₫", "other_editions": []}, {"title": "Khúc hát đêm thâu", "volume_number": "Tập 5", "volume_photo": "https://image.tana.moe/G3HJ0xFnu9XedlOXJjBh6bSipXUoKWJxFFrz8zrL/1920x0/filters:quality(90)/i7m6hhycm11jphx/khuc_hat_dem_thau_tap_5_qd75j8ikmc.jpg", "url": "https://tana.moe/title/khuc-hat-dem-thau", "release_date": "2026-06-08", "price": "35.000 ₫", "other_editions": []}, {"title": "Nisekoi Cặp đôi giả tạo", "volume_number": "Tập 17", "volume_photo": "https://image.tana.moe/PAmc_RKR5-OR0ZJKLHLokpyW5h09Ao05NwAG3R5b/1920x0/filters:quality(90)/bhz9uv8gl68kbd3/nisekoi_cap_doi_gia_tao_tap_17_44b1ep4uhc.jpg", "url": "https://tana.moe/title/nisekoi", "release_date": "2026-06-08", "price": "40.000 ₫", "other_editions": []}, {"title": "Nơi dãy núi điên dại", "volume_number": "Tập 3", "volume_photo": null, "url": "https://tana.moe/title/noi-day-nui-dien-dai", "release_date": "2026-06-08", "price": "40.000 ₫", "other_editions": []}, {"title": "Tình yêu lv.999 của Yamada và tôi", "volume_number": "Tập 6", "volume_photo": "https://image.tana.moe/obPS5_Odw2pp0zWShklCoMD6rq8DhSM2GOVgHPFT/1920x0/filters:quality(90)/oiivf73jxyfyt4a/tinh_yeu_lv999_cua_yamada_va_toi_tap_6_jigkyct9ed.jpg", "url": "https://tana.moe/title/tinh-yeu-lv-999-cua-yamada-va-toi", "release_date": "2026-06-08", "price": "60.000 ₫", "other_editions": [{"edition": "Bản Đặc biệt", "price": "60.000 ₫"}]}, {"title": "Blue Lock: Episode Nagi", "volume_number": "Tập 2", "volume_photo": "https://image.tana.moe/AOdJHbXoCVhnlj11Id5bwNEsOV7ideXRTrkkdFz6/1920x0/filters:quality(90)/9drvy6vrwt2n55f/blue_lock_episode_nagi_tap_2_erq1wbo4ji.jpg", "url": "https://tana.moe/title/blue-lock-episode-nagi", "release_date": "2026-06-12", "price": "35.000 ₫", "other_editions": []}, {"title": "Dấu ấn hoàng gia", "volume_number": "Tập 61", "volume_photo": "https://image.tana.moe/2_fTraRpX8ijtk74zBPI6YVYSQEM0UHDIbj-yROi/1920x0/filters:quality(90)/hmw4tj5o4gyw8e8/dau_an_hoang_gia_tap_61_qg3w88890f.jpg", "url": "https://tana.moe/title/dau-an-hoang-gia", "release_date": "2026-06-12", "price": "30.000 ₫", "other_editions": []}, {"title": "Dấu ấn hoàng gia", "volume_number": "Tập 62", "volume_photo": "https://image.tana.moe/SxffArZ7JP4kjkSNNBAXZHx1fJtZQd7hp3X7K7zF/1920x0/filters:quality(90)/vwv78w9rlhavg1a/dau_an_hoang_gia_tap_62_pzqxne6ha4.jpg", "url": "https://tana.moe/title/dau-an-hoang-gia", "release_date": "2026-06-12", "price": "30.000 ₫", "other_editions": []}, {"title": "Hồn Oda Da Shiba", "volume_number": "Tập 7", "volume_photo": "https://image.tana.moe/RWC44DnOugBqQHLOs0PILSsfzVWuZvPtlds-mGw-/1920x0/filters:quality(90)/jktrf7yj5mxl3sa/hon_oda_da_shiba_tap_7_3k65i8ochq.jpg", "url": "https://tana.moe/title/hon-oda-da-shiba", "release_date": "2026-06-12", "price": "55.000 ₫", "other_editions": []}, {"title": "Lam hỏa diệt quỷ", "volume_number": "Tập 32", "volume_photo": "https://image.tana.moe/CE2JripOSXm0g-Mt92rTgVw1QYCxtsgOUX2QNfbo/1920x0/filters:quality(90)/0vkp0upm1kqseq2/lam_hoa_diet_quy_tap_32_zgdrdvl8so.jpg", "url": "https://tana.moe/title/lam-hoa-diet-quy", "release_date": "2026-06-12", "price": "25.000 ₫", "other_editions": []}, {"title": "Nhiệm vụ tối thượng nhà Yozakura", "volume_number": "Tập 28", "volume_photo": "https://image.tana.moe/FeHGUM6NX2jrHO64zj5ki1E4A2eFmJw_xxEukgtW/1920x0/filters:quality(90)/zgcixpn48f9kt2d/nhiem_vu_toi_thuong_nha_yozakura_tap_28_yyybocfedp.jpg", "url": "https://tana.moe/title/nhiem-vu-toi-thuong-nha-yozakura", "release_date": "2026-06-12", "price": "30.000 ₫", "other_editions": []}, {"title": "Rắc rối đáng yêu - Love☆Com", "volume_number": "Tập 15", "volume_photo": "https://image.tana.moe/dmkPjLCPaNv3LZg-jcntzhT6yTh5cqMT0N3kNpMD/1920x0/filters:quality(90)/atkxdl6baq9lfg3/rac_roi_dang_yeu_lovecom_tap_15_44krmmt95z.jpg", "url": "https://tana.moe/title/rac-roi-dang-yeu-lovecom", "release_date": "2026-06-12", "price": "50.000 ₫", "other_editions": []}, {"title": "Sobotei Dinh thự ma ám", "volume_number": "Tập 23", "volume_photo": "https://image.tana.moe/Cfo8kmFdKS1WZlCqrp0EkcQyE3oCy8qvC6t77rv-/1920x0/filters:quality(90)/0fbrhwou060xqdt/sobotei_dinh_thu_ma_am_tap_23_a6s7qzry7l.jpg", "url": "https://tana.moe/title/sobotei-dinh-thu-ma-am", "release_date": "2026-06-12", "price": "45.000 ₫", "other_editions": []}, {"title": "Song mệnh cõi Hoàng tuyền", "volume_number": "Tập 5", "volume_photo": "https://image.tana.moe/_gn_JsSI2Y1cKkirh4iNr1DMs1NOFOUlm08pq-XL/1920x0/filters:quality(90)/ln6w84y515oe1uy/song_menh_coi_hoang_tuyen_tap_5_7pbhieirki.jpg", "url": "https://tana.moe/title/song-menh-coi-hoang-tuyen", "release_date": "2026-06-12", "price": "35.000 ₫", "other_editions": []}, {"title": "Trở về chương mở đầu với cố nhân tại trường học phép thuật (※Nhưng, độ thiện cảm = 0)", "volume_number": "Tập 1", "volume_photo": "https://image.tana.moe/wnM7HSaKMSYLW3YiV-hqmLFM8ENDNqWgyiBfOuDl/1920x0/filters:quality(90)/p5jysnl0t1ftp7u/tro_ve_chuong_mo_dau_voi_co_nhan_tai_truong_hoc_phep_thuat_tap_1_hk0ac10frq.jpg", "url": "https://tana.moe/title/tro-ve-chuong-mo-dau-voi-co-nhan-tai-truong-hoc-phep-thuat-manga", "release_date": "2026-06-12", "price": "45.000 ₫", "other_editions": []}, {"title": "Yona - Công chúa bình minh", "volume_number": "Tập 42", "volume_photo": "https://image.tana.moe/0C_vvBW53pEJUOQ0gbQetpCuniO-ILcYQDNcLdID/1920x0/filters:quality(90)/zcrq158rt074rzv/yona_cong_chua_binh_minh_tap_42_0cjmkmp5a1.jpg", "url": "https://tana.moe/title/yona-cong-chua-binh-minh", "release_date": "2026-06-12", "price": "25.000 ₫", "other_editions": []}, {"title": "Điệu múa chim công, có ai thấy không?", "volume_number": "Tập 6", "volume_photo": "https://image.tana.moe/Y2ct9iMeIn7NNrl5rGy6kvKkit5JhqstuQBScimf/1920x0/filters:quality(90)/vowowev9p90m706/dieu_mua_chim_cong_co_ai_thay_khong_tap_6_5s6moqlntp.jpg", "url": "https://tana.moe/title/dieu-mua-chim-cong-co-ai-thay-khong", "release_date": "2026-06-12", "price": "58.000 ₫", "other_editions": []}, {"title": "BEASTARS", "volume_number": "Tập 16", "volume_photo": null, "url": "https://tana.moe/title/beastars", "release_date": "2026-06-15", "price": "35.000 ₫", "other_editions": []}, {"title": "Chàng Yugami không có bạn bè", "volume_number": "Tập 1", "volume_photo": null, "url": "https://tana.moe/title/chang-yugami-khong-co-ban-be", "release_date": "2026-06-15", "price": "35.000 ₫", "other_editions": []}, {"title": "Host Club trường Ouran", "volume_number": "Tập 7", "volume_photo": null, "url": "https://tana.moe/title/host-club-truong-ouran", "release_date": "2026-06-15", "price": "35.000 ₫", "other_editions": []}, {"title": "Komi - Nữ thần sợ giao tiếp", "volume_number": "Tập 34", "volume_photo": null, "url": "https://tana.moe/title/komi-nu-than-so-giao-tiep", "release_date": "2026-06-15", "price": "30.000 ₫", "other_editions": []}, {"title": "MONSTER", "volume_number": "Tập 5", "volume_photo": null, "url": "https://tana.moe/title/monster", "release_date": "2026-06-15", "price": "125.000 ₫", "other_editions": []}, {"title": "Ác nữ nửa vời - Truyền kì hoán hồn đổi xác", "volume_number": "Tập 4", "volume_photo": null, "url": "https://tana.moe/title/ac-nu-nua-voi-truyen-ki-hoan-hon-doi-xac-light-novel", "release_date": "2026-06-15", "price": "115.000 ₫", "other_editions": []}, {"title": "Đừng gọi là bí ẩn", "volume_number": "Tập 1", "volume_photo": null, "url": "https://tana.moe/title/dung-goi-la-bi-an", "release_date": "2026-06-15", "price": "35.000 ₫", "other_editions": []}, {"title": "DAN DA DAN", "volume_number": "Tập 5", "volume_photo": null, "url": "https://tana.moe/title/dan-da-dan", "release_date": "2026-06-19", "price": "45.000 ₫", "other_editions": []}, {"title": "Dragon Ball Super", "volume_number": "Tập 1", "volume_photo": null, "url": "https://tana.moe/title/dragon-ball-super", "release_date": "2026-06-19", "price": "80.000 ₫", "other_editions": []}, {"title": "Dược sư tự sự", "volume_number": "Tập 15", "volume_photo": null, "url": "https://tana.moe/title/duoc-su-tu-su-manga", "release_date": "2026-06-19", "price": "47.000 ₫", "other_editions": [{"edition": null, "price": "125.000 ₫"}]}, {"title": "Dấu ấn hoàng gia", "volume_number": "Tập 63", "volume_photo": null, "url": "https://tana.moe/title/dau-an-hoang-gia", "release_date": "2026-06-19", "price": "60.000 ₫", "other_editions": []}, {"title": "Hoa chúc trắng", "volume_number": "Tập 1", "volume_photo": null, "url": "https://tana.moe/title/hoa-chuc-trang", "release_date": "2026-06-19", "price": null, "other_editions": [{"edition": "Bản Đặc biệt", "price": null}]}, {"title": "Học viện siêu anh hùng VIGILANTES", "volume_number": "Tập 40", "volume_photo": null, "url": "https://tana.moe/title/hoc-vien-sieu-anh-hung-vigilantes", "release_date": "2026-06-19", "price": "30.000 ₫", "other_editions": [{"edition": null, "price": "150.000 ₫"}]}, {"title": "Kết duyên với thần chết", "volume_number": "Tập 1", "volume_photo": null, "url": "https://tana.moe/title/ket-duyen-voi-than-chet", "release_date": "2026-06-19", "price": "50.000 ₫", "other_editions": []}, {"title": "Mèo siêu đỉnh hôm nay lại buồn thinh", "volume_number": "Tập 2", "volume_photo": null, "url": "https://tana.moe/title/meo-sieu-dinh-hom-nay-lai-buon-thinh", "release_date": "2026-06-19", "price": "30.000 ₫", "other_editions": []}, {"title": "Ship of Theseus", "volume_number": "Tập 8", "volume_photo": null, "url": "https://tana.moe/title/ship-of-theseus", "release_date": "2026-06-19", "price": null, "other_editions": []}, {"title": "Sói xanh của Mibu", "volume_number": "Tập 1", "volume_photo": null, "url": "https://tana.moe/title/soi-xanh-cua-mibu", "release_date": "2026-06-19", "price": null, "other_editions": []}, {"title": "Thám tử thừa kế", "volume_number": "Tập 3", "volume_photo": null, "url": "https://tana.moe/title/tham-tu-thua-ke", "release_date": "2026-06-19", "price": null, "other_editions": []}, {"title": "Trái dấu hút nhau", "volume_number": "Tập 3", "volume_photo": null, "url": "https://tana.moe/title/trai-dau-hut-nhau", "release_date": "2026-06-19", "price": null, "other_editions": []}, {"title": "Ao Ashi - Tân binh sân cỏ", "volume_number": "Tập 1", "volume_photo": null, "url": "https://tana.moe/title/ao-ashi-tan-binh-san-co", "release_date": "2026-06-22", "price": "35.000 ₫", "other_editions": []}, {"title": "Blue Box", "volume_number": "Tập 16", "volume_photo": null, "url": "https://tana.moe/title/blue-box", "release_date": "2026-06-22", "price": "40.000 ₫", "other_editions": []}, {"title": "Dragon Quest: Cuộc phiêu lưu của Dũng sĩ Dai", "volume_number": "Tập 13", "volume_photo": null, "url": "https://tana.moe/title/dragon-quest-cuoc-phieu-luu-cua-dung-si-dai", "release_date": "2026-06-22", "price": "69.000 ₫", "other_editions": []}, {"title": "Khúc hát đêm thâu", "volume_number": "Tập 6", "volume_photo": null, "url": "https://tana.moe/title/khuc-hat-dem-thau", "release_date": "2026-06-22", "price": "35.000 ₫", "other_editions": []}, {"title": "Những ngày thường bất ổn của Yano", "volume_number": "Tập 9", "volume_photo": null, "url": "https://tana.moe/title/nhung-ngay-thuong-bat-on-cua-yano", "release_date": "2026-06-22", "price": "45.000 ₫", "other_editions": []}, {"title": "Nisekoi Cặp đôi giả tạo", "volume_number": "Tập 18", "volume_photo": null, "url": "https://tana.moe/title/nisekoi", "release_date": "2026-06-22", "price": "40.000 ₫", "other_editions": []}, {"title": "One Piece", "volume_number": "Tập 111", "volume_photo": null, "url": "https://tana.moe/title/one-piece", "release_date": "2026-06-22", "price": "25.000 ₫", "other_editions": [{"edition": null, "price": "30.000 ₫"}]}, {"title": "One Piece Vivre", "volume_number": "Tập 23", "volume_photo": null, "url": "https://tana.moe/title/one-piece-vivre", "release_date": "2026-06-22", "price": "50.000 ₫", "other_editions": []}, {"title": "Oshi no Ko - Dưới ánh hào quang", "volume_number": "Tập 14", "volume_photo": null, "url": "https://tana.moe/title/oshi-no-ko-duoi-anh-hao-quang", "release_date": "2026-06-25", "price": null, "other_editions": []}, {"title": "Cô bé Ponyo", "volume_number": "Tập 1", "volume_photo": null, "url": "https://tana.moe/title/co-be-ponyo-manga", "release_date": "2026-06-26", "price": "75.000 ₫", "other_editions": []}, {"title": "Dấu ấn hoàng gia", "volume_number": "Tập 65", "volume_photo": null, "url": "https://tana.moe/title/dau-an-hoang-gia", "release_date": "2026-06-26", "price": "60.000 ₫", "other_editions": []}, {"title": "Hồn Oda Da Shiba", "volume_number": "Tập 8", "volume_photo": null, "url": "https://tana.moe/title/hon-oda-da-shiba", "release_date": "2026-06-26", "price": null, "other_editions": []}, {"title": "Nhiệm vụ tối thượng nhà Yozakura", "volume_number": "Tập 29", "volume_photo": null, "url": "https://tana.moe/title/nhiem-vu-toi-thuong-nha-yozakura", "release_date": "2026-06-26", "price": "30.000 ₫", "other_editions": []}, {"title": "Rắc rối đáng yêu - Love☆Com", "volume_number": "Tập 16", "volume_photo": null, "url": "https://tana.moe/title/rac-roi-dang-yeu-lovecom", "release_date": "2026-06-26", "price": "50.000 ₫", "other_editions": []}, {"title": "Sobotei Dinh thự ma ám", "volume_number": "Tập 24", "volume_photo": null, "url": "https://tana.moe/title/sobotei-dinh-thu-ma-am", "release_date": "2026-06-26", "price": "45.000 ₫", "other_editions": []}, {"title": "Song mệnh cõi Hoàng tuyền", "volume_number": "Tập 6", "volume_photo": null, "url": "https://tana.moe/title/song-menh-coi-hoang-tuyen", "release_date": "2026-06-26", "price": "35.000 ₫", "other_editions": [{"edition": null, "price": "70.000 ₫"}]}, {"title": "Thám tử lừng danh Conan", "volume_number": "Tập 69", "volume_photo": null, "url": "https://tana.moe/title/tham-tu-lung-danh-conan", "release_date": "2026-06-26", "price": "140.000 ₫", "other_editions": []}, {"title": "Wistoria's Wand and Sword", "volume_number": "Tập 1", "volume_photo": null, "url": "https://tana.moe/title/wistorias-wand-and-sword", "release_date": "2026-06-26", "price": null, "other_editions": [{"edition": "Bản Đặc biệt", "price": null}]}, {"title": "Yona - Công chúa bình minh", "volume_number": "Tập 43", "volume_photo": null, "url": "https://tana.moe/title/yona-cong-chua-binh-minh", "release_date": "2026-06-26", "price": "25.000 ₫", "other_editions": []}, {"title": "Điệu múa chim công, có ai thấy không?", "volume_number": "Tập 7", "volume_photo": null, "url": "https://tana.moe/title/dieu-mua-chim-cong-co-ai-thay-khong", "release_date": "2026-06-26", "price": null, "other_editions": []}, {"title": "Đại Pháp sư của thư viện", "volume_number": "Tập 7", "volume_photo": null, "url": "https://tana.moe/title/dai-phap-su-cua-thu-vien", "release_date": "2026-06-26", "price": "45.000 ₫", "other_editions": []}, {"title": "BEASTARS", "volume_number": "Tập 17", "volume_photo": null, "url": "https://tana.moe/title/beastars", "release_date": "2026-06-29", "price": "35.000 ₫", "other_editions": []}, {"title": "Chàng Yugami không có bạn bè", "volume_number": "Tập 2", "volume_photo": null, "url": "https://tana.moe/title/chang-yugami-khong-co-ban-be", "release_date": "2026-06-29", "price": "35.000 ₫", "other_editions": []}, {"title": "Doraemon Truyện dài", "volume_number": "Tập 4", "volume_photo": null, "url": "https://tana.moe/title/doraemon-truyen-dai", "release_date": "2026-06-29", "price": "66.000 ₫", "other_editions": []}, {"title": "Dịch vụ giao hàng của phù thủy Kiki", "volume_number": "Tập 3", "volume_photo": null, "url": "https://tana.moe/title/dich-vu-giao-hang-cua-phu-thuy-kiki", "release_date": "2026-06-29", "price": "75.000 ₫", "other_editions": []}, {"title": "Host Club trường Ouran", "volume_number": "Tập 8", "volume_photo": null, "url": "https://tana.moe/title/host-club-truong-ouran", "release_date": "2026-06-29", "price": "35.000 ₫", "other_editions": []}, {"title": "Komi - Nữ thần sợ giao tiếp", "volume_number": "Tập 35", "volume_photo": null, "url": "https://tana.moe/title/komi-nu-than-so-giao-tiep", "release_date": "2026-06-29", "price": "30.000 ₫", "other_editions": []}, {"title": "Đừng gọi là bí ẩn", "volume_number": "Tập 2", "volume_photo": null, "url": "https://tana.moe/title/dung-goi-la-bi-an", "release_date": "2026-06-29", "price": "35.000 ₫", "other_editions": []}]]]></items_data>
+    <lastBuildDate>Thu, 25 Jun 2026 17:49:58 +0700</lastBuildDate>
     <item>
-      <title>BEASTARS - Tập 15 — 35.000 ₫</title>
-      <link>https://tana.moe/title/beastars</link>
-      <guid isPermaLink="false">https://tana.moe/title/beastars#Tập 15-2026-06-01</guid>
+      <title>2026-06-01</title>
+      <guid isPermaLink="false">https://lph.truyenbanquyen.com?month=2026-06#2026-06-01</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/P5t49aDHOZ4WJ5elxwQXmOhalwbbZETMyijM-HIp/1920x0/filters:quality(90)/759bhngg9tlxt3s/beastars_tap_15_cxyjfa5b4v.jpg" alt="BEASTARS" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-01</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
+      <description><![CDATA[BEASTARS - Tập 15	35.000 ₫
+Có thứ muốn ăn thịt tôi - Tập 11	60.000 ₫
+Hiên sau siêu thị muộn phiền bay đi - Tập 6	70.000 ₫
+Host Club trường Ouran - Tập 6	35.000 ₫
+Komi - Nữ thần sợ giao tiếp - Tập 33	30.000 ₫
+Nơi quán nhỏ ngập ngừng - Tập 4	60.000 ₫
+Phát phiền với bạn thân của chị - Tập 1	55.000 ₫
+Phải lòng chị của bạn thân - Tập 1	55.000 ₫]]></description>
     </item>
     <item>
-      <title>Có thứ muốn ăn thịt tôi - Tập 11 — 60.000 ₫</title>
-      <link>https://tana.moe/title/co-thu-muon-an-thit-toi</link>
-      <guid isPermaLink="false">https://tana.moe/title/co-thu-muon-an-thit-toi#Tập 11-2026-06-01</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/_WoOqHv4r25OamsQ4U3IrgdE6tjBqkMhs0ub1XOF/1920x0/filters:quality(90)/mgitw43iwz8jdhu/co_thu_muon_an_thit_toi_tap_11_c6l7xt0twp.jpg" alt="Có thứ muốn ăn thịt tôi" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-01</p><p><strong>Giá:</strong> 60.000 ₫</p><p><strong>Phiên bản khác:</strong></p><ul><li>Bản Đặc biệt: 60.000 ₫</li></ul>]]></description>
-    </item>
-    <item>
-      <title>Hiên sau siêu thị muộn phiền bay đi - Tập 6 — 70.000 ₫</title>
-      <link>https://tana.moe/title/hien-sau-sieu-thi-muon-phien-bay-di</link>
-      <guid isPermaLink="false">https://tana.moe/title/hien-sau-sieu-thi-muon-phien-bay-di#Tập 6-2026-06-01</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/Tjw1c3o52HqkAHPi3s_82NRaafuIeWr_euyhfgPW/1920x0/filters:quality(90)/nqt99ewjuaq7kl3/hien_sau_sieu_thi_muon_phien_bay_di_tap_6_h7jcx9du44.jpg" alt="Hiên sau siêu thị muộn phiền bay đi" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-01</p><p><strong>Giá:</strong> 70.000 ₫</p><p><strong>Phiên bản khác:</strong></p><ul><li>Bản Đặc biệt: 70.000 ₫</li></ul>]]></description>
-    </item>
-    <item>
-      <title>Host Club trường Ouran - Tập 6 — 35.000 ₫</title>
-      <link>https://tana.moe/title/host-club-truong-ouran</link>
-      <guid isPermaLink="false">https://tana.moe/title/host-club-truong-ouran#Tập 6-2026-06-01</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/HOUCgKAQi_QcwHWg-nhH4BRW_3_lnNGlhxKvlTRB/1920x0/filters:quality(90)/gyifr5vufpj8lfj/host_club_truong_ouran_tap_6_iq2itpnq0p.jpg" alt="Host Club trường Ouran" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-01</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Komi - Nữ thần sợ giao tiếp - Tập 33 — 30.000 ₫</title>
-      <link>https://tana.moe/title/komi-nu-than-so-giao-tiep</link>
-      <guid isPermaLink="false">https://tana.moe/title/komi-nu-than-so-giao-tiep#Tập 33-2026-06-01</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/B4T4PqmqBBS91-b35agLbEgymWsePJEyyx1g6cV1/1920x0/filters:quality(90)/uor5p0k0vuq1rzh/komi_nu_than_so_giao_tiep_tap_33_932r6a2mhd.jpg" alt="Komi - Nữ thần sợ giao tiếp" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-01</p><p><strong>Giá:</strong> 30.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Nơi quán nhỏ ngập ngừng - Tập 4 — 60.000 ₫</title>
-      <link>https://tana.moe/title/noi-quan-nho-ngap-ngung</link>
-      <guid isPermaLink="false">https://tana.moe/title/noi-quan-nho-ngap-ngung#Tập 4-2026-06-01</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/43B-B06eQhz8nRIJoN6ZGe9FKD7SPQN-JF0oEzOP/1920x0/filters:quality(90)/tneqnvh8broxbit/noi_quan_nho_ngap_ngung_tap_4_wq5g8fts6l.jpg" alt="Nơi quán nhỏ ngập ngừng" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-01</p><p><strong>Giá:</strong> 60.000 ₫</p><p><strong>Phiên bản khác:</strong></p><ul><li>Bản Đặc biệt: 60.000 ₫</li></ul>]]></description>
-    </item>
-    <item>
-      <title>Phát phiền với bạn thân của chị - Tập 1 — 55.000 ₫</title>
-      <link>https://tana.moe/title/phat-phien-voi-ban-than-cua-chi</link>
-      <guid isPermaLink="false">https://tana.moe/title/phat-phien-voi-ban-than-cua-chi#Tập 1-2026-06-01</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/eulpujXbPie-uY3V8mQdwDd3M-6IpRsvW5I6uiTC/1920x0/filters:quality(90)/p8fee0ua2xhm5h8/phat_phien_voi_ban_than_cua_chi_tap_1_mcbqit5wgh.jpg" alt="Phát phiền với bạn thân của chị" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-01</p><p><strong>Giá:</strong> 55.000 ₫</p><p><strong>Phiên bản khác:</strong></p><ul><li>Bản Đặc biệt: 55.000 ₫</li></ul>]]></description>
-    </item>
-    <item>
-      <title>Phải lòng chị của bạn thân - Tập 1 — 55.000 ₫</title>
-      <link>https://tana.moe/title/phai-long-chi-cua-ban-than</link>
-      <guid isPermaLink="false">https://tana.moe/title/phai-long-chi-cua-ban-than#Tập 1-2026-06-01</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/WDFrwloV-ax7_7wxreJGU8WUHZCZy2gUCayirbTG/1920x0/filters:quality(90)/wns6p6jrpwmileh/phai_long_chi_cua_ban_than_tap_1_gjfwt85wct.jpg" alt="Phải lòng chị của bạn thân" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-01</p><p><strong>Giá:</strong> 55.000 ₫</p><p><strong>Phiên bản khác:</strong></p><ul><li>Bản Đặc biệt: 55.000 ₫</li></ul>]]></description>
-    </item>
-    <item>
-      <title>DAN DA DAN - Tập 4 — 45.000 ₫</title>
-      <link>https://tana.moe/title/dan-da-dan</link>
-      <guid isPermaLink="false">https://tana.moe/title/dan-da-dan#Tập 4-2026-06-05</guid>
+      <title>2026-06-05</title>
+      <guid isPermaLink="false">https://lph.truyenbanquyen.com?month=2026-06#2026-06-05</guid>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/ngzueeQTyccVT_u1QHDHGbAb0uQTp0l8tGXCk7SY/1920x0/filters:quality(90)/ustt5d9hnl7xfi1/dan_da_dan_tap_4_ja7ds94o2z.jpg" alt="DAN DA DAN" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-05</p><p><strong>Giá:</strong> 45.000 ₫</p>]]></description>
+      <description><![CDATA[DAN DA DAN - Tập 4	45.000 ₫
+Em đến cùng mưa - Tập 7	38.000 ₫
+Hikaru - Kì thủ cờ vây - Tập 5	80.000 ₫
+Hoa thơm kiêu hãnh - Tập 22	55.000 ₫
+Nữ binh thần tốc - Tập 16	45.000 ₫
+Ship of Theseus - Tập 7	50.000 ₫
+Thủy cung đáy biển Magmell - Tập 7	40.000 ₫
+Thám tử thừa kế - Tập 2	55.000 ₫
+Trái dấu hút nhau - Tập 2	60.000 ₫]]></description>
     </item>
     <item>
-      <title>Em đến cùng mưa - Tập 7 — 38.000 ₫</title>
-      <link>https://tana.moe/title/em-den-cung-mua</link>
-      <guid isPermaLink="false">https://tana.moe/title/em-den-cung-mua#Tập 7-2026-06-05</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/dR8bI17UMWPv2NhaHpBeLhPjPDX699rj-4QnJnEu/1920x0/filters:quality(90)/qoozz66l54dm8es/em_den_cung_mua_tap_7_jxrnj3klny.jpg" alt="Em đến cùng mưa" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-05</p><p><strong>Giá:</strong> 38.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Hikaru - Kì thủ cờ vây - Tập 5 — 80.000 ₫</title>
-      <link>https://tana.moe/title/hikaru-ki-thu-co-vay</link>
-      <guid isPermaLink="false">https://tana.moe/title/hikaru-ki-thu-co-vay#Tập 5-2026-06-05</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/FZKuhdHX_B_iIvlkkTOSX5dM6P9JVFSsFoNW_gJv/1920x0/filters:quality(90)/um6aodphoy4ali9/hikaru_ki_thu_co_vay_tap_5_wefnnj74wz.jpg" alt="Hikaru - Kì thủ cờ vây" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-05</p><p><strong>Giá:</strong> 80.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Hoa thơm kiêu hãnh - Tập 22 — 55.000 ₫</title>
-      <link>https://tana.moe/title/hoa-thom-kieu-hanh</link>
-      <guid isPermaLink="false">https://tana.moe/title/hoa-thom-kieu-hanh#Tập 22-2026-06-05</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/DY5KvBT73NpVYTDUmHhfn8kpoea35-U9ZNm2dlYa/1920x0/filters:quality(90)/06qla1x4buyurri/hoa_thom_kieu_hanh_tap_22_p0kbsyjvuw.jpg" alt="Hoa thơm kiêu hãnh" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-05</p><p><strong>Giá:</strong> 55.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Nữ binh thần tốc - Tập 16 — 45.000 ₫</title>
-      <link>https://tana.moe/title/nu-binh-than-toc</link>
-      <guid isPermaLink="false">https://tana.moe/title/nu-binh-than-toc#Tập 16-2026-06-05</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/Zju3kepAT48GHQeFXsXFXcajx6P54Ug4lJRI4rh-/1920x0/filters:quality(90)/q5z87ro9109gtjj/nu_binh_than_toc_tap_16_ooufvditwe.jpg" alt="Nữ binh thần tốc" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-05</p><p><strong>Giá:</strong> 45.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Ship of Theseus - Tập 7 — 50.000 ₫</title>
-      <link>https://tana.moe/title/ship-of-theseus</link>
-      <guid isPermaLink="false">https://tana.moe/title/ship-of-theseus#Tập 7-2026-06-05</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/9K6GWf7QxZgDPjcG8U4OQ01NEeFWRWmKC2a1OZ0y/1920x0/filters:quality(90)/670yjo5y236c8pt/ship_of_theseus_tap_7_mxi7azewz3.jpg" alt="Ship of Theseus" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-05</p><p><strong>Giá:</strong> 50.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Thủy cung đáy biển Magmell - Tập 7 — 40.000 ₫</title>
-      <link>https://tana.moe/title/thuy-cung-day-bien-magmell</link>
-      <guid isPermaLink="false">https://tana.moe/title/thuy-cung-day-bien-magmell#Tập 7-2026-06-05</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/rJdxDY8_RmIzwTsq9ThFdKn1Zt1L-tm3mv1Kt70p/1920x0/filters:quality(90)/6zpg8yybu5w92nu/thuy_cung_day_bien_magmell_tap_7_p79er10f4z.jpg" alt="Thủy cung đáy biển Magmell" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-05</p><p><strong>Giá:</strong> 40.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Thám tử thừa kế - Tập 2 — 55.000 ₫</title>
-      <link>https://tana.moe/title/tham-tu-thua-ke</link>
-      <guid isPermaLink="false">https://tana.moe/title/tham-tu-thua-ke#Tập 2-2026-06-05</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/JcjtmAzj3uCLYHmVXXopvb416e8MKYcGgcoiZ6Zi/1920x0/filters:quality(90)/hzb0vff6xsigacd/tham_tu_thua_ke_tap_2_upccxrah80.jpg" alt="Thám tử thừa kế" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-05</p><p><strong>Giá:</strong> 55.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Trái dấu hút nhau - Tập 2 — 60.000 ₫</title>
-      <link>https://tana.moe/title/trai-dau-hut-nhau</link>
-      <guid isPermaLink="false">https://tana.moe/title/trai-dau-hut-nhau#Tập 2-2026-06-05</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/44MIYomHgoWCluRyFwj2W-cZL3gybs24o-a0d3Cf/1920x0/filters:quality(90)/11aoxkjy2dv7ync/trai_dau_hut_nhau_tap_2_pb0v0dqzvc.jpg" alt="Trái dấu hút nhau" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-05</p><p><strong>Giá:</strong> 60.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Gokurakugai - Tập 3 — 65.000 ₫</title>
-      <link>https://tana.moe/title/gokurakugai</link>
-      <guid isPermaLink="false">https://tana.moe/title/gokurakugai#Tập 3-2026-06-06</guid>
+      <title>2026-06-06</title>
+      <guid isPermaLink="false">https://lph.truyenbanquyen.com?month=2026-06#2026-06-06</guid>
       <pubDate>Sat, 06 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/f2EZAE0mRlxrVCqXz8kcwd9eVGytzBjTkPcKWY9m/1920x0/filters:quality(90)/19teb0m019bi9wy/gokurakugai_tap_3_p9f42znl9q.jpg" alt="Gokurakugai" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-06</p><p><strong>Giá:</strong> 65.000 ₫</p><p><strong>Phiên bản khác:</strong></p><ul><li>Bản Sưu tầm: 135.000 ₫</li><li>Bản Đặc biệt: 65.000 ₫</li></ul>]]></description>
+      <description><![CDATA[Gokurakugai - Tập 3	65.000 ₫
+Hakumei & Mikochi - Tập 2	65.000 ₫
+Nắng ấm và câu lạc bộ bốn mùa - Tập 2	65.000 ₫]]></description>
     </item>
     <item>
-      <title>Hakumei &amp; Mikochi - Tập 2 — 65.000 ₫</title>
-      <link>https://tana.moe/title/hakumei-and-mikochi</link>
-      <guid isPermaLink="false">https://tana.moe/title/hakumei-and-mikochi#Tập 2-2026-06-06</guid>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/wd7XT2cGbQz-mHrwG0nxTZgv-SFOGg9h41GwnWa9/1920x0/filters:quality(90)/r6fuoqggb8xldiq/hakumei_mikochi_tap_2_2kytb78lo2.png" alt="Hakumei &amp; Mikochi" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-06</p><p><strong>Giá:</strong> 65.000 ₫</p><p><strong>Phiên bản khác:</strong></p><ul><li>Bản Đặc biệt: 65.000 ₫</li></ul>]]></description>
-    </item>
-    <item>
-      <title>Nắng ấm và câu lạc bộ bốn mùa - Tập 2 — 65.000 ₫</title>
-      <link>https://tana.moe/title/nang-am-va-cau-lac-bo-bon-mua</link>
-      <guid isPermaLink="false">https://tana.moe/title/nang-am-va-cau-lac-bo-bon-mua#Tập 2-2026-06-06</guid>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/d3VoGrlsOrZcT0FZ1Ss_MZKT5OGKlqq9AEWFOoU5/1920x0/filters:quality(90)/xx6dnh2mi9f0aox/nang_am_va_cau_lac_bo_bon_mua_tap_2_p7lpt8stk7.jpg" alt="Nắng ấm và câu lạc bộ bốn mùa" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-06</p><p><strong>Giá:</strong> 65.000 ₫</p><p><strong>Phiên bản khác:</strong></p><ul><li>Bản Đặc biệt: 65.000 ₫</li></ul>]]></description>
-    </item>
-    <item>
-      <title>Blue Box - Tập 15 — 40.000 ₫</title>
-      <link>https://tana.moe/title/blue-box</link>
-      <guid isPermaLink="false">https://tana.moe/title/blue-box#Tập 15-2026-06-08</guid>
+      <title>2026-06-08</title>
+      <guid isPermaLink="false">https://lph.truyenbanquyen.com?month=2026-06#2026-06-08</guid>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/vM713cfXZWwr3BYfLMLq94MdhS4RUG8EO7hkvZd9/1920x0/filters:quality(90)/mdzoje8ftwcev69/blue_box_tap_15_3u1l8qz4a3.jpg" alt="Blue Box" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-08</p><p><strong>Giá:</strong> 40.000 ₫</p>]]></description>
+      <description><![CDATA[Blue Box - Tập 15	40.000 ₫
+Chú thuật hồi chiến - Tập 28	30.000 ₫
+Dã ngoại thảnh thơi - Yuru Camp - Tập 13	30.000 ₫
+Khúc hát đêm thâu - Tập 5	35.000 ₫
+Nisekoi Cặp đôi giả tạo - Tập 17	40.000 ₫
+Nơi dãy núi điên dại - Tập 3	40.000 ₫
+Tình yêu lv.999 của Yamada và tôi - Tập 6	60.000 ₫]]></description>
     </item>
     <item>
-      <title>Chú thuật hồi chiến - Tập 28 — 30.000 ₫</title>
-      <link>https://tana.moe/title/chu-thuat-hoi-chien</link>
-      <guid isPermaLink="false">https://tana.moe/title/chu-thuat-hoi-chien#Tập 28-2026-06-08</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/CgWfZUGtX_x-9fgLZIzQE6A-YBw5quLMuaBBP33s/1920x0/filters:quality(90)/ch5n6p0g3fxeecc/chu_thuat_hoi_chien_tap_28_t18w8erl01.jpg" alt="Chú thuật hồi chiến" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-08</p><p><strong>Giá:</strong> 30.000 ₫</p><p><strong>Phiên bản khác:</strong></p><ul><li>Limited Edition: 65.000 ₫</li></ul>]]></description>
-    </item>
-    <item>
-      <title>Dã ngoại thảnh thơi - Yuru Camp - Tập 13 — 30.000 ₫</title>
-      <link>https://tana.moe/title/da-ngoai-thanh-thoi-yuru-camp</link>
-      <guid isPermaLink="false">https://tana.moe/title/da-ngoai-thanh-thoi-yuru-camp#Tập 13-2026-06-08</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/UYb0caH1GxFJz7JGUUd-E9lTkL1FBu2OBhJSoz0h/1920x0/filters:quality(90)/jom63fiqx7dcnar/da_ngoai_thanh_thoi_yuru_camp_tap_13_6zz4ucttlx.jpg" alt="Dã ngoại thảnh thơi - Yuru Camp" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-08</p><p><strong>Giá:</strong> 30.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Khúc hát đêm thâu - Tập 5 — 35.000 ₫</title>
-      <link>https://tana.moe/title/khuc-hat-dem-thau</link>
-      <guid isPermaLink="false">https://tana.moe/title/khuc-hat-dem-thau#Tập 5-2026-06-08</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/G3HJ0xFnu9XedlOXJjBh6bSipXUoKWJxFFrz8zrL/1920x0/filters:quality(90)/i7m6hhycm11jphx/khuc_hat_dem_thau_tap_5_qd75j8ikmc.jpg" alt="Khúc hát đêm thâu" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-08</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Nisekoi Cặp đôi giả tạo - Tập 17 — 40.000 ₫</title>
-      <link>https://tana.moe/title/nisekoi</link>
-      <guid isPermaLink="false">https://tana.moe/title/nisekoi#Tập 17-2026-06-08</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/PAmc_RKR5-OR0ZJKLHLokpyW5h09Ao05NwAG3R5b/1920x0/filters:quality(90)/bhz9uv8gl68kbd3/nisekoi_cap_doi_gia_tao_tap_17_44b1ep4uhc.jpg" alt="Nisekoi Cặp đôi giả tạo" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-08</p><p><strong>Giá:</strong> 40.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Nơi dãy núi điên dại - Tập 3 — 40.000 ₫</title>
-      <link>https://tana.moe/title/noi-day-nui-dien-dai</link>
-      <guid isPermaLink="false">https://tana.moe/title/noi-day-nui-dien-dai#Tập 3-2026-06-08</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-08</p><p><strong>Giá:</strong> 40.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Tình yêu lv.999 của Yamada và tôi - Tập 6 — 60.000 ₫</title>
-      <link>https://tana.moe/title/tinh-yeu-lv-999-cua-yamada-va-toi</link>
-      <guid isPermaLink="false">https://tana.moe/title/tinh-yeu-lv-999-cua-yamada-va-toi#Tập 6-2026-06-08</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/obPS5_Odw2pp0zWShklCoMD6rq8DhSM2GOVgHPFT/1920x0/filters:quality(90)/oiivf73jxyfyt4a/tinh_yeu_lv999_cua_yamada_va_toi_tap_6_jigkyct9ed.jpg" alt="Tình yêu lv.999 của Yamada và tôi" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-08</p><p><strong>Giá:</strong> 60.000 ₫</p><p><strong>Phiên bản khác:</strong></p><ul><li>Bản Đặc biệt: 60.000 ₫</li></ul>]]></description>
-    </item>
-    <item>
-      <title>Blue Lock: Episode Nagi - Tập 2 — 35.000 ₫</title>
-      <link>https://tana.moe/title/blue-lock-episode-nagi</link>
-      <guid isPermaLink="false">https://tana.moe/title/blue-lock-episode-nagi#Tập 2-2026-06-12</guid>
+      <title>2026-06-12</title>
+      <guid isPermaLink="false">https://lph.truyenbanquyen.com?month=2026-06#2026-06-12</guid>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/AOdJHbXoCVhnlj11Id5bwNEsOV7ideXRTrkkdFz6/1920x0/filters:quality(90)/9drvy6vrwt2n55f/blue_lock_episode_nagi_tap_2_erq1wbo4ji.jpg" alt="Blue Lock: Episode Nagi" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-12</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
+      <description><![CDATA[Blue Lock: Episode Nagi - Tập 2	35.000 ₫
+Dấu ấn hoàng gia - Tập 61	30.000 ₫
+Dấu ấn hoàng gia - Tập 62	30.000 ₫
+Hồn Oda Da Shiba - Tập 7	55.000 ₫
+Lam hỏa diệt quỷ - Tập 32	25.000 ₫
+Nhiệm vụ tối thượng nhà Yozakura - Tập 28	30.000 ₫
+Rắc rối đáng yêu - Love☆Com - Tập 15	50.000 ₫
+Sobotei Dinh thự ma ám - Tập 23	45.000 ₫
+Song mệnh cõi Hoàng tuyền - Tập 5	35.000 ₫
+Trở về chương mở đầu với cố nhân tại trường học phép thuật (※Nhưng, độ thiện cảm = 0) - Tập 1	45.000 ₫
+Yona - Công chúa bình minh - Tập 42	25.000 ₫
+Điệu múa chim công, có ai thấy không? - Tập 6	58.000 ₫]]></description>
     </item>
     <item>
-      <title>Dấu ấn hoàng gia - Tập 61 — 30.000 ₫</title>
-      <link>https://tana.moe/title/dau-an-hoang-gia</link>
-      <guid isPermaLink="false">https://tana.moe/title/dau-an-hoang-gia#Tập 61-2026-06-12</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/2_fTraRpX8ijtk74zBPI6YVYSQEM0UHDIbj-yROi/1920x0/filters:quality(90)/hmw4tj5o4gyw8e8/dau_an_hoang_gia_tap_61_qg3w88890f.jpg" alt="Dấu ấn hoàng gia" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-12</p><p><strong>Giá:</strong> 30.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Dấu ấn hoàng gia - Tập 62 — 30.000 ₫</title>
-      <link>https://tana.moe/title/dau-an-hoang-gia</link>
-      <guid isPermaLink="false">https://tana.moe/title/dau-an-hoang-gia#Tập 62-2026-06-12</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/SxffArZ7JP4kjkSNNBAXZHx1fJtZQd7hp3X7K7zF/1920x0/filters:quality(90)/vwv78w9rlhavg1a/dau_an_hoang_gia_tap_62_pzqxne6ha4.jpg" alt="Dấu ấn hoàng gia" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-12</p><p><strong>Giá:</strong> 30.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Hồn Oda Da Shiba - Tập 7 — 55.000 ₫</title>
-      <link>https://tana.moe/title/hon-oda-da-shiba</link>
-      <guid isPermaLink="false">https://tana.moe/title/hon-oda-da-shiba#Tập 7-2026-06-12</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/RWC44DnOugBqQHLOs0PILSsfzVWuZvPtlds-mGw-/1920x0/filters:quality(90)/jktrf7yj5mxl3sa/hon_oda_da_shiba_tap_7_3k65i8ochq.jpg" alt="Hồn Oda Da Shiba" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-12</p><p><strong>Giá:</strong> 55.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Lam hỏa diệt quỷ - Tập 32 — 25.000 ₫</title>
-      <link>https://tana.moe/title/lam-hoa-diet-quy</link>
-      <guid isPermaLink="false">https://tana.moe/title/lam-hoa-diet-quy#Tập 32-2026-06-12</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/CE2JripOSXm0g-Mt92rTgVw1QYCxtsgOUX2QNfbo/1920x0/filters:quality(90)/0vkp0upm1kqseq2/lam_hoa_diet_quy_tap_32_zgdrdvl8so.jpg" alt="Lam hỏa diệt quỷ" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-12</p><p><strong>Giá:</strong> 25.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Nhiệm vụ tối thượng nhà Yozakura - Tập 28 — 30.000 ₫</title>
-      <link>https://tana.moe/title/nhiem-vu-toi-thuong-nha-yozakura</link>
-      <guid isPermaLink="false">https://tana.moe/title/nhiem-vu-toi-thuong-nha-yozakura#Tập 28-2026-06-12</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/FeHGUM6NX2jrHO64zj5ki1E4A2eFmJw_xxEukgtW/1920x0/filters:quality(90)/zgcixpn48f9kt2d/nhiem_vu_toi_thuong_nha_yozakura_tap_28_yyybocfedp.jpg" alt="Nhiệm vụ tối thượng nhà Yozakura" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-12</p><p><strong>Giá:</strong> 30.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Rắc rối đáng yêu - Love☆Com - Tập 15 — 50.000 ₫</title>
-      <link>https://tana.moe/title/rac-roi-dang-yeu-lovecom</link>
-      <guid isPermaLink="false">https://tana.moe/title/rac-roi-dang-yeu-lovecom#Tập 15-2026-06-12</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/dmkPjLCPaNv3LZg-jcntzhT6yTh5cqMT0N3kNpMD/1920x0/filters:quality(90)/atkxdl6baq9lfg3/rac_roi_dang_yeu_lovecom_tap_15_44krmmt95z.jpg" alt="Rắc rối đáng yêu - Love☆Com" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-12</p><p><strong>Giá:</strong> 50.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Sobotei Dinh thự ma ám - Tập 23 — 45.000 ₫</title>
-      <link>https://tana.moe/title/sobotei-dinh-thu-ma-am</link>
-      <guid isPermaLink="false">https://tana.moe/title/sobotei-dinh-thu-ma-am#Tập 23-2026-06-12</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/Cfo8kmFdKS1WZlCqrp0EkcQyE3oCy8qvC6t77rv-/1920x0/filters:quality(90)/0fbrhwou060xqdt/sobotei_dinh_thu_ma_am_tap_23_a6s7qzry7l.jpg" alt="Sobotei Dinh thự ma ám" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-12</p><p><strong>Giá:</strong> 45.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Song mệnh cõi Hoàng tuyền - Tập 5 — 35.000 ₫</title>
-      <link>https://tana.moe/title/song-menh-coi-hoang-tuyen</link>
-      <guid isPermaLink="false">https://tana.moe/title/song-menh-coi-hoang-tuyen#Tập 5-2026-06-12</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/_gn_JsSI2Y1cKkirh4iNr1DMs1NOFOUlm08pq-XL/1920x0/filters:quality(90)/ln6w84y515oe1uy/song_menh_coi_hoang_tuyen_tap_5_7pbhieirki.jpg" alt="Song mệnh cõi Hoàng tuyền" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-12</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Trở về chương mở đầu với cố nhân tại trường học phép thuật (※Nhưng, độ thiện cảm = 0) - Tập 1 — 45.000 ₫</title>
-      <link>https://tana.moe/title/tro-ve-chuong-mo-dau-voi-co-nhan-tai-truong-hoc-phep-thuat-manga</link>
-      <guid isPermaLink="false">https://tana.moe/title/tro-ve-chuong-mo-dau-voi-co-nhan-tai-truong-hoc-phep-thuat-manga#Tập 1-2026-06-12</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/wnM7HSaKMSYLW3YiV-hqmLFM8ENDNqWgyiBfOuDl/1920x0/filters:quality(90)/p5jysnl0t1ftp7u/tro_ve_chuong_mo_dau_voi_co_nhan_tai_truong_hoc_phep_thuat_tap_1_hk0ac10frq.jpg" alt="Trở về chương mở đầu với cố nhân tại trường học phép thuật (※Nhưng, độ thiện cảm = 0)" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-12</p><p><strong>Giá:</strong> 45.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Yona - Công chúa bình minh - Tập 42 — 25.000 ₫</title>
-      <link>https://tana.moe/title/yona-cong-chua-binh-minh</link>
-      <guid isPermaLink="false">https://tana.moe/title/yona-cong-chua-binh-minh#Tập 42-2026-06-12</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/0C_vvBW53pEJUOQ0gbQetpCuniO-ILcYQDNcLdID/1920x0/filters:quality(90)/zcrq158rt074rzv/yona_cong_chua_binh_minh_tap_42_0cjmkmp5a1.jpg" alt="Yona - Công chúa bình minh" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-12</p><p><strong>Giá:</strong> 25.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Điệu múa chim công, có ai thấy không? - Tập 6 — 58.000 ₫</title>
-      <link>https://tana.moe/title/dieu-mua-chim-cong-co-ai-thay-khong</link>
-      <guid isPermaLink="false">https://tana.moe/title/dieu-mua-chim-cong-co-ai-thay-khong#Tập 6-2026-06-12</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<img src="https://image.tana.moe/Y2ct9iMeIn7NNrl5rGy6kvKkit5JhqstuQBScimf/1920x0/filters:quality(90)/vowowev9p90m706/dieu_mua_chim_cong_co_ai_thay_khong_tap_6_5s6moqlntp.jpg" alt="Điệu múa chim công, có ai thấy không?" style="max-width:200px"/><p><strong>Ngày phát hành:</strong> 2026-06-12</p><p><strong>Giá:</strong> 58.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>BEASTARS - Tập 16 — 35.000 ₫</title>
-      <link>https://tana.moe/title/beastars</link>
-      <guid isPermaLink="false">https://tana.moe/title/beastars#Tập 16-2026-06-15</guid>
+      <title>2026-06-15</title>
+      <guid isPermaLink="false">https://lph.truyenbanquyen.com?month=2026-06#2026-06-15</guid>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-15</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
+      <description><![CDATA[BEASTARS - Tập 16	35.000 ₫
+Chàng Yugami không có bạn bè - Tập 1	35.000 ₫
+Host Club trường Ouran - Tập 7	35.000 ₫
+Komi - Nữ thần sợ giao tiếp - Tập 34	30.000 ₫
+MONSTER - Tập 5	125.000 ₫
+Ác nữ nửa vời - Truyền kì hoán hồn đổi xác - Tập 4	115.000 ₫
+Đừng gọi là bí ẩn - Tập 1	35.000 ₫]]></description>
     </item>
     <item>
-      <title>Chàng Yugami không có bạn bè - Tập 1 — 35.000 ₫</title>
-      <link>https://tana.moe/title/chang-yugami-khong-co-ban-be</link>
-      <guid isPermaLink="false">https://tana.moe/title/chang-yugami-khong-co-ban-be#Tập 1-2026-06-15</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-15</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Host Club trường Ouran - Tập 7 — 35.000 ₫</title>
-      <link>https://tana.moe/title/host-club-truong-ouran</link>
-      <guid isPermaLink="false">https://tana.moe/title/host-club-truong-ouran#Tập 7-2026-06-15</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-15</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Komi - Nữ thần sợ giao tiếp - Tập 34 — 30.000 ₫</title>
-      <link>https://tana.moe/title/komi-nu-than-so-giao-tiep</link>
-      <guid isPermaLink="false">https://tana.moe/title/komi-nu-than-so-giao-tiep#Tập 34-2026-06-15</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-15</p><p><strong>Giá:</strong> 30.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>MONSTER - Tập 5 — 125.000 ₫</title>
-      <link>https://tana.moe/title/monster</link>
-      <guid isPermaLink="false">https://tana.moe/title/monster#Tập 5-2026-06-15</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-15</p><p><strong>Giá:</strong> 125.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Ác nữ nửa vời - Truyền kì hoán hồn đổi xác - Tập 4 — 115.000 ₫</title>
-      <link>https://tana.moe/title/ac-nu-nua-voi-truyen-ki-hoan-hon-doi-xac-light-novel</link>
-      <guid isPermaLink="false">https://tana.moe/title/ac-nu-nua-voi-truyen-ki-hoan-hon-doi-xac-light-novel#Tập 4-2026-06-15</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-15</p><p><strong>Giá:</strong> 115.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Đừng gọi là bí ẩn - Tập 1 — 35.000 ₫</title>
-      <link>https://tana.moe/title/dung-goi-la-bi-an</link>
-      <guid isPermaLink="false">https://tana.moe/title/dung-goi-la-bi-an#Tập 1-2026-06-15</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-15</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>DAN DA DAN - Tập 5 — 45.000 ₫</title>
-      <link>https://tana.moe/title/dan-da-dan</link>
-      <guid isPermaLink="false">https://tana.moe/title/dan-da-dan#Tập 5-2026-06-19</guid>
+      <title>2026-06-19</title>
+      <guid isPermaLink="false">https://lph.truyenbanquyen.com?month=2026-06#2026-06-19</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-19</p><p><strong>Giá:</strong> 45.000 ₫</p>]]></description>
+      <description><![CDATA[DAN DA DAN - Tập 5	45.000 ₫
+Dragon Ball Super - Tập 1	80.000 ₫
+Dược sư tự sự - Tập 15	47.000 ₫
+Dấu ấn hoàng gia - Tập 63	60.000 ₫
+Hoa chúc trắng - Tập 1	
+Học viện siêu anh hùng VIGILANTES - Tập 40	30.000 ₫
+Kết duyên với thần chết - Tập 1	50.000 ₫
+Mèo siêu đỉnh hôm nay lại buồn thinh - Tập 2	30.000 ₫
+Ship of Theseus - Tập 8	
+Sói xanh của Mibu - Tập 1	
+Thám tử thừa kế - Tập 3	
+Trái dấu hút nhau - Tập 3	]]></description>
     </item>
     <item>
-      <title>Dragon Ball Super - Tập 1 — 80.000 ₫</title>
-      <link>https://tana.moe/title/dragon-ball-super</link>
-      <guid isPermaLink="false">https://tana.moe/title/dragon-ball-super#Tập 1-2026-06-19</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-19</p><p><strong>Giá:</strong> 80.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Dược sư tự sự - Tập 15 — 47.000 ₫</title>
-      <link>https://tana.moe/title/duoc-su-tu-su-manga</link>
-      <guid isPermaLink="false">https://tana.moe/title/duoc-su-tu-su-manga#Tập 15-2026-06-19</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-19</p><p><strong>Giá:</strong> 47.000 ₫</p><p><strong>Phiên bản khác:</strong></p><ul><li>: 125.000 ₫</li></ul>]]></description>
-    </item>
-    <item>
-      <title>Dấu ấn hoàng gia - Tập 63 — 60.000 ₫</title>
-      <link>https://tana.moe/title/dau-an-hoang-gia</link>
-      <guid isPermaLink="false">https://tana.moe/title/dau-an-hoang-gia#Tập 63-2026-06-19</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-19</p><p><strong>Giá:</strong> 60.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Hoa chúc trắng - Tập 1</title>
-      <link>https://tana.moe/title/hoa-chuc-trang</link>
-      <guid isPermaLink="false">https://tana.moe/title/hoa-chuc-trang#Tập 1-2026-06-19</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-19</p><p><strong>Phiên bản khác:</strong></p><ul><li>Bản Đặc biệt: </li></ul>]]></description>
-    </item>
-    <item>
-      <title>Học viện siêu anh hùng VIGILANTES - Tập 40 — 30.000 ₫</title>
-      <link>https://tana.moe/title/hoc-vien-sieu-anh-hung-vigilantes</link>
-      <guid isPermaLink="false">https://tana.moe/title/hoc-vien-sieu-anh-hung-vigilantes#Tập 40-2026-06-19</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-19</p><p><strong>Giá:</strong> 30.000 ₫</p><p><strong>Phiên bản khác:</strong></p><ul><li>: 150.000 ₫</li></ul>]]></description>
-    </item>
-    <item>
-      <title>Kết duyên với thần chết - Tập 1 — 50.000 ₫</title>
-      <link>https://tana.moe/title/ket-duyen-voi-than-chet</link>
-      <guid isPermaLink="false">https://tana.moe/title/ket-duyen-voi-than-chet#Tập 1-2026-06-19</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-19</p><p><strong>Giá:</strong> 50.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Mèo siêu đỉnh hôm nay lại buồn thinh - Tập 2 — 30.000 ₫</title>
-      <link>https://tana.moe/title/meo-sieu-dinh-hom-nay-lai-buon-thinh</link>
-      <guid isPermaLink="false">https://tana.moe/title/meo-sieu-dinh-hom-nay-lai-buon-thinh#Tập 2-2026-06-19</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-19</p><p><strong>Giá:</strong> 30.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Ship of Theseus - Tập 8</title>
-      <link>https://tana.moe/title/ship-of-theseus</link>
-      <guid isPermaLink="false">https://tana.moe/title/ship-of-theseus#Tập 8-2026-06-19</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-19</p>]]></description>
-    </item>
-    <item>
-      <title>Sói xanh của Mibu - Tập 1</title>
-      <link>https://tana.moe/title/soi-xanh-cua-mibu</link>
-      <guid isPermaLink="false">https://tana.moe/title/soi-xanh-cua-mibu#Tập 1-2026-06-19</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-19</p>]]></description>
-    </item>
-    <item>
-      <title>Thám tử thừa kế - Tập 3</title>
-      <link>https://tana.moe/title/tham-tu-thua-ke</link>
-      <guid isPermaLink="false">https://tana.moe/title/tham-tu-thua-ke#Tập 3-2026-06-19</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-19</p>]]></description>
-    </item>
-    <item>
-      <title>Trái dấu hút nhau - Tập 3</title>
-      <link>https://tana.moe/title/trai-dau-hut-nhau</link>
-      <guid isPermaLink="false">https://tana.moe/title/trai-dau-hut-nhau#Tập 3-2026-06-19</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-19</p>]]></description>
-    </item>
-    <item>
-      <title>Ao Ashi - Tân binh sân cỏ - Tập 1 — 35.000 ₫</title>
-      <link>https://tana.moe/title/ao-ashi-tan-binh-san-co</link>
-      <guid isPermaLink="false">https://tana.moe/title/ao-ashi-tan-binh-san-co#Tập 1-2026-06-22</guid>
+      <title>2026-06-22</title>
+      <guid isPermaLink="false">https://lph.truyenbanquyen.com?month=2026-06#2026-06-22</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-22</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
+      <description><![CDATA[Ao Ashi - Tân binh sân cỏ - Tập 1	35.000 ₫
+Blue Box - Tập 16	40.000 ₫
+Dragon Quest: Cuộc phiêu lưu của Dũng sĩ Dai - Tập 13	69.000 ₫
+Khúc hát đêm thâu - Tập 6	35.000 ₫
+Những ngày thường bất ổn của Yano - Tập 9	45.000 ₫
+Nisekoi Cặp đôi giả tạo - Tập 18	40.000 ₫
+One Piece - Tập 111	25.000 ₫
+One Piece Vivre - Tập 23	50.000 ₫]]></description>
     </item>
     <item>
-      <title>Blue Box - Tập 16 — 40.000 ₫</title>
-      <link>https://tana.moe/title/blue-box</link>
-      <guid isPermaLink="false">https://tana.moe/title/blue-box#Tập 16-2026-06-22</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-22</p><p><strong>Giá:</strong> 40.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Dragon Quest: Cuộc phiêu lưu của Dũng sĩ Dai - Tập 13 — 69.000 ₫</title>
-      <link>https://tana.moe/title/dragon-quest-cuoc-phieu-luu-cua-dung-si-dai</link>
-      <guid isPermaLink="false">https://tana.moe/title/dragon-quest-cuoc-phieu-luu-cua-dung-si-dai#Tập 13-2026-06-22</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-22</p><p><strong>Giá:</strong> 69.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Khúc hát đêm thâu - Tập 6 — 35.000 ₫</title>
-      <link>https://tana.moe/title/khuc-hat-dem-thau</link>
-      <guid isPermaLink="false">https://tana.moe/title/khuc-hat-dem-thau#Tập 6-2026-06-22</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-22</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Những ngày thường bất ổn của Yano - Tập 9 — 45.000 ₫</title>
-      <link>https://tana.moe/title/nhung-ngay-thuong-bat-on-cua-yano</link>
-      <guid isPermaLink="false">https://tana.moe/title/nhung-ngay-thuong-bat-on-cua-yano#Tập 9-2026-06-22</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-22</p><p><strong>Giá:</strong> 45.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Nisekoi Cặp đôi giả tạo - Tập 18 — 40.000 ₫</title>
-      <link>https://tana.moe/title/nisekoi</link>
-      <guid isPermaLink="false">https://tana.moe/title/nisekoi#Tập 18-2026-06-22</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-22</p><p><strong>Giá:</strong> 40.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>One Piece - Tập 111 — 25.000 ₫</title>
-      <link>https://tana.moe/title/one-piece</link>
-      <guid isPermaLink="false">https://tana.moe/title/one-piece#Tập 111-2026-06-22</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-22</p><p><strong>Giá:</strong> 25.000 ₫</p><p><strong>Phiên bản khác:</strong></p><ul><li>: 30.000 ₫</li></ul>]]></description>
-    </item>
-    <item>
-      <title>One Piece Vivre - Tập 23 — 50.000 ₫</title>
-      <link>https://tana.moe/title/one-piece-vivre</link>
-      <guid isPermaLink="false">https://tana.moe/title/one-piece-vivre#Tập 23-2026-06-22</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-22</p><p><strong>Giá:</strong> 50.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Oshi no Ko - Dưới ánh hào quang - Tập 14</title>
-      <link>https://tana.moe/title/oshi-no-ko-duoi-anh-hao-quang</link>
-      <guid isPermaLink="false">https://tana.moe/title/oshi-no-ko-duoi-anh-hao-quang#Tập 14-2026-06-25</guid>
+      <title>2026-06-25</title>
+      <guid isPermaLink="false">https://lph.truyenbanquyen.com?month=2026-06#2026-06-25</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-25</p>]]></description>
+      <description><![CDATA[Oshi no Ko - Dưới ánh hào quang - Tập 14	]]></description>
     </item>
     <item>
-      <title>Cô bé Ponyo - Tập 1 — 75.000 ₫</title>
-      <link>https://tana.moe/title/co-be-ponyo-manga</link>
-      <guid isPermaLink="false">https://tana.moe/title/co-be-ponyo-manga#Tập 1-2026-06-26</guid>
+      <title>2026-06-26</title>
+      <guid isPermaLink="false">https://lph.truyenbanquyen.com?month=2026-06#2026-06-26</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-26</p><p><strong>Giá:</strong> 75.000 ₫</p>]]></description>
+      <description><![CDATA[Cô bé Ponyo - Tập 1	75.000 ₫
+Dấu ấn hoàng gia - Tập 65	60.000 ₫
+Hồn Oda Da Shiba - Tập 8	
+Nhiệm vụ tối thượng nhà Yozakura - Tập 29	30.000 ₫
+Rắc rối đáng yêu - Love☆Com - Tập 16	50.000 ₫
+Sobotei Dinh thự ma ám - Tập 24	45.000 ₫
+Song mệnh cõi Hoàng tuyền - Tập 6	35.000 ₫
+Thám tử lừng danh Conan - Tập 69	140.000 ₫
+Wistoria's Wand and Sword - Tập 1	
+Yona - Công chúa bình minh - Tập 43	25.000 ₫
+Điệu múa chim công, có ai thấy không? - Tập 7	
+Đại Pháp sư của thư viện - Tập 7	45.000 ₫]]></description>
     </item>
     <item>
-      <title>Dấu ấn hoàng gia - Tập 65 — 60.000 ₫</title>
-      <link>https://tana.moe/title/dau-an-hoang-gia</link>
-      <guid isPermaLink="false">https://tana.moe/title/dau-an-hoang-gia#Tập 65-2026-06-26</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-26</p><p><strong>Giá:</strong> 60.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Hồn Oda Da Shiba - Tập 8</title>
-      <link>https://tana.moe/title/hon-oda-da-shiba</link>
-      <guid isPermaLink="false">https://tana.moe/title/hon-oda-da-shiba#Tập 8-2026-06-26</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-26</p>]]></description>
-    </item>
-    <item>
-      <title>Nhiệm vụ tối thượng nhà Yozakura - Tập 29 — 30.000 ₫</title>
-      <link>https://tana.moe/title/nhiem-vu-toi-thuong-nha-yozakura</link>
-      <guid isPermaLink="false">https://tana.moe/title/nhiem-vu-toi-thuong-nha-yozakura#Tập 29-2026-06-26</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-26</p><p><strong>Giá:</strong> 30.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Rắc rối đáng yêu - Love☆Com - Tập 16 — 50.000 ₫</title>
-      <link>https://tana.moe/title/rac-roi-dang-yeu-lovecom</link>
-      <guid isPermaLink="false">https://tana.moe/title/rac-roi-dang-yeu-lovecom#Tập 16-2026-06-26</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-26</p><p><strong>Giá:</strong> 50.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Sobotei Dinh thự ma ám - Tập 24 — 45.000 ₫</title>
-      <link>https://tana.moe/title/sobotei-dinh-thu-ma-am</link>
-      <guid isPermaLink="false">https://tana.moe/title/sobotei-dinh-thu-ma-am#Tập 24-2026-06-26</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-26</p><p><strong>Giá:</strong> 45.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Song mệnh cõi Hoàng tuyền - Tập 6 — 35.000 ₫</title>
-      <link>https://tana.moe/title/song-menh-coi-hoang-tuyen</link>
-      <guid isPermaLink="false">https://tana.moe/title/song-menh-coi-hoang-tuyen#Tập 6-2026-06-26</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-26</p><p><strong>Giá:</strong> 35.000 ₫</p><p><strong>Phiên bản khác:</strong></p><ul><li>: 70.000 ₫</li></ul>]]></description>
-    </item>
-    <item>
-      <title>Thám tử lừng danh Conan - Tập 69 — 140.000 ₫</title>
-      <link>https://tana.moe/title/tham-tu-lung-danh-conan</link>
-      <guid isPermaLink="false">https://tana.moe/title/tham-tu-lung-danh-conan#Tập 69-2026-06-26</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-26</p><p><strong>Giá:</strong> 140.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Wistoria's Wand and Sword - Tập 1</title>
-      <link>https://tana.moe/title/wistorias-wand-and-sword</link>
-      <guid isPermaLink="false">https://tana.moe/title/wistorias-wand-and-sword#Tập 1-2026-06-26</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-26</p><p><strong>Phiên bản khác:</strong></p><ul><li>Bản Đặc biệt: </li></ul>]]></description>
-    </item>
-    <item>
-      <title>Yona - Công chúa bình minh - Tập 43 — 25.000 ₫</title>
-      <link>https://tana.moe/title/yona-cong-chua-binh-minh</link>
-      <guid isPermaLink="false">https://tana.moe/title/yona-cong-chua-binh-minh#Tập 43-2026-06-26</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-26</p><p><strong>Giá:</strong> 25.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Điệu múa chim công, có ai thấy không? - Tập 7</title>
-      <link>https://tana.moe/title/dieu-mua-chim-cong-co-ai-thay-khong</link>
-      <guid isPermaLink="false">https://tana.moe/title/dieu-mua-chim-cong-co-ai-thay-khong#Tập 7-2026-06-26</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-26</p>]]></description>
-    </item>
-    <item>
-      <title>Đại Pháp sư của thư viện - Tập 7 — 45.000 ₫</title>
-      <link>https://tana.moe/title/dai-phap-su-cua-thu-vien</link>
-      <guid isPermaLink="false">https://tana.moe/title/dai-phap-su-cua-thu-vien#Tập 7-2026-06-26</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-26</p><p><strong>Giá:</strong> 45.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>BEASTARS - Tập 17 — 35.000 ₫</title>
-      <link>https://tana.moe/title/beastars</link>
-      <guid isPermaLink="false">https://tana.moe/title/beastars#Tập 17-2026-06-29</guid>
+      <title>2026-06-29</title>
+      <guid isPermaLink="false">https://lph.truyenbanquyen.com?month=2026-06#2026-06-29</guid>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-29</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Chàng Yugami không có bạn bè - Tập 2 — 35.000 ₫</title>
-      <link>https://tana.moe/title/chang-yugami-khong-co-ban-be</link>
-      <guid isPermaLink="false">https://tana.moe/title/chang-yugami-khong-co-ban-be#Tập 2-2026-06-29</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-29</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Doraemon Truyện dài - Tập 4 — 66.000 ₫</title>
-      <link>https://tana.moe/title/doraemon-truyen-dai</link>
-      <guid isPermaLink="false">https://tana.moe/title/doraemon-truyen-dai#Tập 4-2026-06-29</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-29</p><p><strong>Giá:</strong> 66.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Dịch vụ giao hàng của phù thủy Kiki - Tập 3 — 75.000 ₫</title>
-      <link>https://tana.moe/title/dich-vu-giao-hang-cua-phu-thuy-kiki</link>
-      <guid isPermaLink="false">https://tana.moe/title/dich-vu-giao-hang-cua-phu-thuy-kiki#Tập 3-2026-06-29</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-29</p><p><strong>Giá:</strong> 75.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Host Club trường Ouran - Tập 8 — 35.000 ₫</title>
-      <link>https://tana.moe/title/host-club-truong-ouran</link>
-      <guid isPermaLink="false">https://tana.moe/title/host-club-truong-ouran#Tập 8-2026-06-29</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-29</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Komi - Nữ thần sợ giao tiếp - Tập 35 — 30.000 ₫</title>
-      <link>https://tana.moe/title/komi-nu-than-so-giao-tiep</link>
-      <guid isPermaLink="false">https://tana.moe/title/komi-nu-than-so-giao-tiep#Tập 35-2026-06-29</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-29</p><p><strong>Giá:</strong> 30.000 ₫</p>]]></description>
-    </item>
-    <item>
-      <title>Đừng gọi là bí ẩn - Tập 2 — 35.000 ₫</title>
-      <link>https://tana.moe/title/dung-goi-la-bi-an</link>
-      <guid isPermaLink="false">https://tana.moe/title/dung-goi-la-bi-an#Tập 2-2026-06-29</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0700</pubDate>
-      <description><![CDATA[<p><strong>Ngày phát hành:</strong> 2026-06-29</p><p><strong>Giá:</strong> 35.000 ₫</p>]]></description>
+      <description><![CDATA[BEASTARS - Tập 17	35.000 ₫
+Chàng Yugami không có bạn bè - Tập 2	35.000 ₫
+Doraemon Truyện dài - Tập 4	66.000 ₫
+Dịch vụ giao hàng của phù thủy Kiki - Tập 3	75.000 ₫
+Host Club trường Ouran - Tập 8	35.000 ₫
+Komi - Nữ thần sợ giao tiếp - Tập 35	30.000 ₫
+Đừng gọi là bí ẩn - Tập 2	35.000 ₫]]></description>
     </item>
   </channel>
 </rss>
