@@ -2,9 +2,9 @@ import argparse
 import re
 import sys
 
-from fetcher import fetch_schedule
-from parser import parse_schedule
-from storage import load_all_entries, save
+from utils.fetcher import fetch_schedule
+from utils.parser import parse_schedule
+from utils.storage import load_all_entries, save
 
 
 def main():

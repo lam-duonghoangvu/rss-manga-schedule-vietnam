@@ -1,20 +1,27 @@
+import json
 from pathlib import Path
 
-from rss import entries_from_rss, generate_rss
+from .rss import generate_rss
 
 
 def load_all_entries() -> list[dict]:
-    all_entries: list[dict] = []
-    for xml_file in sorted(Path("schedule").glob("*.xml")):
-        all_entries.extend(entries_from_rss(xml_file))
-    all_entries.sort(key=lambda e: e["release_date"])
+    all_entries = []
+    for json_file in sorted(Path("data").glob("*.json")):
+        all_entries.extend(json.loads(json_file.read_text(encoding="utf-8")))
+    all_entries.sort(key=lambda entry: entry["release_date"])
     return all_entries
 
 
 def save(entries: list[dict], month: str) -> tuple[Path, Path]:
+    Path("data").mkdir(exist_ok=True)
     Path("schedule").mkdir(exist_ok=True)
 
     yyyymm = month.replace("-", "")
+
+    Path("data", f"{yyyymm}.json").write_text(
+        json.dumps(entries, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
     month_file = Path("schedule") / f"{yyyymm}.xml"
     month_file.write_text(generate_rss(entries, month), encoding="utf-8")
 
