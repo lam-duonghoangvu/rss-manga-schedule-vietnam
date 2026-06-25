@@ -6,18 +6,8 @@ from xml.sax.saxutils import escape
 from .fetcher import BASE_URL
 
 FEED_TITLE = "Lịch Phát Hành Truyện Bản Quyền"
-FEED_DESCRIPTION = "Lịch phát hành manga bản quyền tại Việt Nam"
+FEED_DESCRIPTION = "Lịch phát hành Manga & Light Novel bản quyền tại Việt Nam"
 ICT = timezone(timedelta(hours=7))
-
-_CSS = (
-    "<style>"
-    "table{width:100%;border-collapse:collapse;margin-bottom:15px}"
-    "td{padding:4px 0;vertical-align:top}"
-    "td:nth-child(1){text-align:left}"
-    "td:nth-child(2){text-align:right;width:1%;white-space:nowrap;padding-left:15px}"
-    "b{display:block;margin-top:10px;font-size:1.1em}"
-    "</style>"
-)
 
 
 def _rss_date(date_str: str) -> str:
@@ -25,22 +15,29 @@ def _rss_date(date_str: str) -> str:
     return format_datetime(dt)
 
 
-def _month_description(month_entries: list[dict]) -> str:
+def _month_description(month_entries: list[dict], month_key: str) -> str:
+    year, mon = month_key.split("-")
+
     by_day: dict[str, list[dict]] = defaultdict(list)
     for entry in month_entries:
         by_day[entry["release_date"][8:]].append(entry)
 
-    parts = [_CSS]
+    rows = []
     for day in sorted(by_day):
-        rows = "".join(
-            f'<tr>'
-            f'<td>{escape(e["title"])} - {escape((e["volume_number"] or "").removeprefix("Tập "))}</td>'
-            f'<td>{escape(e["price"] or "")}</td>'
-            f'</tr>'
-            for e in by_day[day]
-        )
-        parts.append(f"<b>{day}</b><table>{rows}</table>")
-    return "\n".join(parts)
+        rows.append(f'          <tr><td colspan="2" align="left"><h1>{day}</h1></td></tr>')
+        for e in by_day[day]:
+            title = escape(e["title"])
+            volume = escape((e["volume_number"] or "").removeprefix("Tập "))
+            price = escape((e["price"] or "").removesuffix("\xa0₫").removesuffix(" ₫"))
+            rows.append(f'          <tr><td align="left">{title} - {volume}</td><td align="right">{price}</td></tr>')
+
+    rows_xml = "\n".join(rows)
+    return (
+        f'        <p>Lịch phát hành Manga & Light Novel bản quyền tại Việt Nam trong tháng {mon}/{year}</p>\n'
+        f'        <table width="100%">\n'
+        f'{rows_xml}\n'
+        f'        </table>'
+    )
 
 
 def generate_rss(entries: list[dict], month: str | None = None) -> str:
@@ -59,14 +56,15 @@ def generate_rss(entries: list[dict], month: str | None = None) -> str:
 
     items = []
     for month_key in sorted(by_month):
-        month_title = datetime.strptime(month_key, "%Y-%m").strftime("%B %Y")
-        desc = _month_description(by_month[month_key])
+        year, mon = month_key.split("-")
+        month_title = f"Tháng {mon}, {year}"
+        desc = _month_description(by_month[month_key], month_key)
         item = (
             "    <item>\n"
             f"      <title>{escape(month_title)}</title>\n"
             f'      <guid isPermaLink="false">{escape(channel_link)}#{escape(month_key)}</guid>\n'
             f"      <pubDate>{_rss_date(f'{month_key}-01')}</pubDate>\n"
-            f"      <description><![CDATA[{desc}]]></description>\n"
+            f"      <description>\n      <![CDATA[\n{desc}\n      ]]>\n      </description>\n"
             "    </item>"
         )
         items.append(item)
